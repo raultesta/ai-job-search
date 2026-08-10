@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Figma & Figma Make, design systems, AI-assisted prototyping (Claude Code, Claude Design, Lovable), DeFi/Web3 & RWA UX architecture, user research & retention design, multi-chain transaction flow design
+**Moderate match areas:** Design team leadership, product ownership/Agile, brand/identity design, non-crypto AI-native product design
+**Weak match areas:** Hands-on frontend engineering/coding (design-led AI prototyping only, not production engineering), data science/ML model work, enterprise B2B SaaS design outside fintech/Web3
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -74,9 +74,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** DeFi/Web3 product design, design systems architecture, design team leadership, AI-native product design workflows
+**Moderate:** General product design/UX leadership outside DeFi (public sector, civic tech, brand-new ventures), design-led product ownership
+**Entry-level:** Pure software engineering roles, data-heavy analytics roles
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -91,8 +91,8 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
+- Fully remote: PASS
+- On-site or hybrid-required: FAIL (deal-breaker - candidate requires remote only)
 - Requires relocation: FAIL (deal-breaker)
 - Frequent international travel: FLAG (discuss with user)
 
@@ -107,19 +107,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Continue/deepen DeFi & Web3 product design leadership, or pivot into AI-native product design across other industries
+- Move into a design leadership track (Head of Design / Design Director)
+- Keep building with AI-assisted prototyping tools (Claude Code, Claude Design, Lovable) as a core differentiator
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Building with AI tools to move fast from concept to working prototype; complex/hard UX problems (multi-chain flows, transaction UX); leading and growing a design team
+- Tasks that drain: Micromanagement, low autonomy, heavy bureaucracy/slow approval chains
+- Non-task factors: leadership style (outcome-based, not directive), degree of autonomy, remote-first culture
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Baseline salary expectation approx. €100k/year
+- **Flexibility**: Remote only - hard deal-breaker, no on-site or hybrid-required roles
+- **Professional development**: Prioritizes roles that deepen AI-assisted design workflows and/or design leadership scope
 
 ### 6. Salary Benchmark (Optional)
 

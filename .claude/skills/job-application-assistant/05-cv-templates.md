@@ -115,12 +115,14 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For DeFi/Web3 Product Design roles:**
+> Lead Product Designer with 4+ years architecting design systems for live DeFi and RWA protocols, from multi-chain terminal workspaces to money markets and liquid staking platforms. Combines deep DeFi UX domain knowledge (transaction flows, wallet connection, position management) with AI-assisted prototyping using Claude Code, Claude Design and Lovable, taking concepts from wireframe to functional React/Tailwind prototypes in days. Runs user research and usability testing on live protocol users to drive retention-focused redesigns.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For AI-Native Product Designer roles (any industry):**
+> Product Designer who builds with AI as a core part of the workflow, using Claude Code, Claude Design, Figma Make and Lovable to compress concept-to-functional-prototype timelines from weeks to days. Track record spans DeFi/Web3 protocol design, civic-tech public digital services, and a self-built AI-native sports-club management platform now in daily use by 250 members. Combines hands-on design systems architecture with direct engineering and stakeholder collaboration.
+
+**For Design Leadership (Head of Design / Design Director) roles:**
+> Design lead with experience owning design end-to-end across 7 live DeFi & RWA protocols, plus prior product-ownership roles spanning a public-sector digital transformation and a venture built from zero. Partners directly with engineering and founders to pressure-test technical feasibility, translates protocol UX rationale for client stakeholders, and standardises interaction patterns into reusable design-system libraries so teams ship consistently rather than reinventing flows per project.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

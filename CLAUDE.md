@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Raul Testa
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Raul Testa, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,76 +13,98 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Raul Testa
+- **Location:** Leiria, Portugal (remote, EU eligible)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | English | Native/bilingual |
+  | Portuguese | Fluent |
+  | Spanish | Intermediate |
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Employed at Rome Blockchain Labs Inc., actively looking to move
+- **LinkedIn headline:** "Lead Product Designer & AI-Native UX Architect"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **PhD in Communication Sciences** (2017-2019) - ISCTE, Lisbon University Institute
+  - Thesis: "Media, political communication and ideological polarisation on social media"
+  - Topics: Political communication, media studies, social media polarisation
+- **Master of Laws (Labour & Sports Law) / Law Degree** (2003-2012) - Coimbra Law University
+- **Mobile Application User Experience Design** (2023) - MIT (online)
+  - HCI methods and user-behaviour analysis
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Lead Product Designer & AI-Native UX Architect** (04/2022 - Present) - **Rome Blockchain Labs Inc.** (Remote)
+  - Design lead for the firm's entire DeFi portfolio: flagship multi-chain Rome Terminal, money markets, liquid staking platforms, and real-world-asset protocols for external partners
+  - Architected end-to-end design systems for 7 live DeFi & RWA protocols (Tashi Finance, Hover Market, kinetic.market, Bits.Financial, Sceptre.fi, Trad.fi, Rome Terminal), spanning liquid staking, money markets, and asset-backed credit
+  - Integrated AI-assisted prototyping (Figma Make, Claude Code, Claude Design, Lovable) into the product workflow, taking concepts from wireframe to functional React/Tailwind prototypes in days instead of weeks
+  - Engineered custom multi-chain terminal workspaces for Rome Terminal, optimizing window-layout ergonomics and reducing friction across complex DEX transaction and position-management flows
+  - Standardised lending, borrowing, staking and yield-farming interaction patterns into a reusable protocol UX library
+  - Ran user research, personas and usability testing on live protocol users, translating findings into retention-focused redesigns of onboarding, wallet connection and transaction confirmation
+- **UX/UI Designer & Product Owner** (10/2021 - 04/2022) - **CITIZEN**
+  - Owned the product from zero: defined the brand, design system and roadmap for a new venture
+  - Led market research with the marketing team to size target audiences
+  - Designed customer-facing interfaces and the business plan, aligning commercial goals with a user-centred experience
+- **Lead UX/UI Designer & Product Owner** (01/2018 - 10/2021) - **Portuguese City Hall (Marinha Grande)**
+  - Senior advisor to Marinha Grande's Mayor, led the advisory team
+  - Idealized, designed and implemented the new city brand, design system and public digital services
+  - Created the city's main app and an augmented reality app for the Portuguese National Glass Museum
+- **Graphic Designer** (2013 - 2017) - **Leiria's City Hall**
+  - Owned design and production across all advertising and communication channels
+- **Communication & Design Teacher** (2017) - **D. Dinis Business School**
+  - Taught marketing and graphic design in political communication
+- **UX/UI Designer & Campaign Manager** (2013) - **Partido Socialista**
+  - Led the full local-election campaign team, content and social strategy
+- **Marketing Director** (2012 - 2013) - **Blink Eye**
+  - Strategic marketing and social media for a design, photography and marketing agency
+- **Head of Design** (2010 - 2012) - **MyDESIGN**
+  - Ran the graphic design department and campaign strategy for agency clients
+
+### Independent Projects
+- **Lobos Sports Management Platform** (2024 - Present): AI-native MVP built end-to-end with Lovable AI. Athlete registration, class scheduling and payments handled in-app. Now in daily use at Leiria's Wolves Club, 250 users.
+- **SPEAK** (2012 - 2017): Co-founder, Head of Design. Language-and-culture social enterprise backed by a Portuguese NGO and Fundação EDP. This is where UX design work started: drew the original storyboard by hand in 2012 and designed the product from it, then built the brand, website, mobile app and design system. SPEAK now operates internationally.
+- **Total UX/product design experience: ~14 years since 2012 (started with SPEAK), not just since 2018.** See `01-candidate-profile.md`'s "Total Design & UX Experience" section for the full grounding and phrasing guardrails before citing a years-of-experience figure in a CV or cover letter.
+- **Lobos de Leiria** (2019 - Present): Founder & President. Rugby and martial arts club for children and young people in Leiria, organisation, brand and digital operations for a growing multi-sport school (lobosleiria.pt).
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Figma, Figma Make & component libraries, design systems, AI-assisted prototyping (Claude Code, Claude Design, Lovable), user research & retention design
+- **Secondary:** Multi-chain transaction flow design, product ownership, Agile, design team leadership
+- **Domain:** DeFi & RWA UX architecture, liquid staking, money markets, asset-backed credit, DEX transaction/position-management flows
+- **Software:** Figma, Figma Make, Claude Code, Claude Design, Lovable, React/Tailwind (via AI-assisted prototyping)
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Mobile Application User Experience Design** - MIT (online) - completed 2023
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None currently listed. PhD thesis on media, political communication and ideological polarisation on social media (ISCTE, 2019) available on request.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+None currently listed.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Autonomous, high-ownership operator** - thrives with minimal oversight, takes projects from zero to shipped
+- **Fast, intuition-led decision-maker who also validates with research** - moves quickly on partial information but backs decisions with user research and usability testing when it matters
+- **Direct, low-formality communicator**
+- **Strengths:** Design systems architecture, translating complex technical flows (multi-chain, DeFi) into usable interfaces, AI-assisted rapid prototyping, stakeholder communication across technical and business audiences
+- **Growth areas:** N/A yet - to be refined with more assessment data
+- **Thrives in:** Small/lean teams with high autonomy, fast-moving startup environments, and structured-but-collaborative settings; drained by micromanagement, low autonomy, and heavy bureaucracy/slow approval chains
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building with AI tools (Claude, Lovable, Figma Make) to move from concept to functional prototype fast
+- Solving complex product/UX problems, especially multi-chain transaction flows and other genuinely hard interaction-design challenges
+- Growing and leading a design team, setting design culture and process
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- DeFi / Web3 / RWA protocols: continuation of current domain (Rome Blockchain Labs-style firms)
+- AI-native product design: any industry applying AI-assisted design/prototyping workflows
+- Design leadership: Head of Design / Design Director tracks, any sector
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Must be remote (no on-site or hybrid-required roles)
+
+## Salary Baseline
+Approx. €100k/year.
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

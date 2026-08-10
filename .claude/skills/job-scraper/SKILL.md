@@ -83,6 +83,10 @@ Use `WebSearch` for:
 
 Use the site-specific query strings from `search-queries.md` directly as WebSearch queries for these portals.
 
+#### 1d. MCP connector sources
+
+Always run, alongside 1b, when the tool is available in this session (check via ToolSearch if it hasn't been loaded yet - the tool name and required params are documented under "Installed MCP connectors" in `search-queries.md`). These are authenticated connectors, not CLI portals or WebSearch, so they get their own step. Currently: **Indeed** (`search_jobs`) - run it with the query terms from the active priority categories, same as any other portal. Tag results with `"portal": "indeed-mcp"` in `seen_jobs.json` so the Step 4.75 health check and Step 5 summary can attribute them correctly.
+
 ### Step 2: Fetch & Parse
 
 For each promising result from Step 1:

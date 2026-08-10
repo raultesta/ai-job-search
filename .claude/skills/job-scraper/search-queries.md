@@ -12,66 +12,114 @@ The `site:` query templates in this file are the **WebSearch fallback** — for 
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+Primary (remote-first, worldwide - no single "home market" board since the candidate is remote-only and location-agnostic):
+- **linkedin.com/jobs** - LinkedIn job listings (filter: Remote); also covered by `linkedin-search` CLI
+- **freehire-search CLI** - remote-first job board, covered automatically. **Use the `--region eu,global,none` facet** (or `--region eu,us,global,none` if you want US-remote-but-worldwide-eligible roles too) rather than an unfiltered query — an unscoped freehire search over-returns "Remote US"-only postings that fail the location gate downstream. See "Location Filter" below.
+- **weworkremotely-search CLI** - We Work Remotely's Design-category RSS feed, worldwide remote, covered automatically. `--query` is a client-side filter (the feed has no server-side search param) — see `.agents/skills/weworkremotely-search/SKILL.md` for the full quirk write-up.
+- **remotive-search CLI** - Remotive's free public JSON API, worldwide remote, covered automatically. `--query` is a client-side filter (Remotive's own `category`/`search` params were observed not being applied server-side — see `.agents/skills/remotive-search/url-reference.md`). **Rate-limited to ~4 requests/day per Remotive's own terms — do not loop or poll this CLI.**
+- **himalayas-search CLI** - Himalayas' free public JSON API, worldwide remote, covered automatically. Server-side `--query`/`--country`/`--seniority`/`--employment-type` filters are confirmed reliable (unlike Remotive's) — see `.agents/skills/himalayas-search/url-reference.md`. **Attribution required: Himalayas' own terms require a visible link back to each job's himalayas.app URL and credit to Himalayas as the source whenever this data is displayed — never resubmit it to other job boards.**
+- **remoteok-search CLI** - RemoteOK's free public JSON API, worldwide remote, high-volume (30,000+ listings), covered automatically. `--tag` (e.g. `design`) is confirmed to filter server-side, but `--query` is a client-side filter like Remotive's — RemoteOK's own `search`/`q`/`position` keyword params and its `page`/`limit`/`offset` pagination params were live-tested and found to be silently ignored server-side — see `.agents/skills/remoteok-search/url-reference.md`. Feed quality is noisier than the other installed CLIs (some spam-adjacent listings); no strict documented rate cap, but keep volume reasonable regardless.
+- **wellfound.com** (formerly AngelList) - startup/Web3-heavy remote roles (optional, WebSearch fallback)
+- **cryptocurrencyjobs.co / web3.career** - Web3/DeFi-specific boards (optional, WebSearch fallback)
+
+## Installed MCP connectors
+
+Not a portal CLI - an authenticated MCP connector already attached to this account. Call directly in Step 1 alongside the CLI portals.
+
+- **Indeed** (`mcp__4fc4f9b3-fe43-4300-88f5-1b26a0c51ed6__search_jobs`) - requires `search` (keyword), `location` (use `"remote"`), and `country_code` (ISO 3166 two-letter, e.g. `PT`) - there is no single "worldwide" query, so run it once per relevant market (at minimum `PT`; add others like `DE`/`GB`/`US` if the query category warrants it). Follow up with `get_job_details` on promising hits for the full description and application link. **Caveat confirmed 2026-08-09: the connected Indeed profile (`get_resume`) has stale, wrong preference data (minimum salary listed as EUR40,000/year, preferred titles include "CMO"/"QA Tester") - do not use `get_resume`'s preferences to filter or influence search queries; only use `search_jobs`'s own explicit params, sourced from this file same as every other portal.** `get_company_data` is useful for the Job Evaluation Framework's Behavioral Fit research (ratings, culture, salary benchmarks by company) but is not a discovery tool - don't call it during Step 1.
 
 Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+- Direct Google searches with `site:` filters for known DeFi/Web3 and AI-native product companies
+
+**Recommended additional sources (not yet installed as portal CLIs — see FIXER note 2026-08-07):**
+- ~~**We Work Remotely**~~ - installed as the `weworkremotely-search` CLI (see Installed portal CLIs above, and `.agents/skills/weworkremotely-search/`); no longer a "not yet installed" candidate.
+- ~~**Remotive**~~ - installed as the `remotive-search` CLI (see Installed portal CLIs above, and `.agents/skills/remotive-search/`); no longer a "not yet installed" candidate.
+- **web3.career** - dedicated Web3/crypto job API (101k+ listings, design/product role filter, remote filter) but requires free signup for an API key (`docs.bondex.app`) — the account-creation step itself is out of scope for Claude to perform per this repo's safety rules, so this would need the user to obtain the key manually before `/add-portal` could wire it up.
+- **Landing.jobs** - EU tech-marketplace board (Portugal-headquartered, pan-European remote listings), but its public API (`github.com/LandingJobs/LandingJobs-api`) only exposes authenticated per-company endpoints, not a general public search endpoint — likely not feasible as a clean `/add-portal` CLI without a partner key. Lower priority than Remotive/WWR.
 
 ## Query Categories
 
 Queries are grouped by priority. Write **each category in every language from your Languages table** (see Language scope above). Combine each query with your location terms (e.g. your city, region, or metro area) where the site supports it.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Lead / Senior Product Designer (DeFi & Web3)
 
-These match your strongest and most desired career direction.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
-```
-
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+These match the strongest and most desired career direction - continuing DeFi/Web3 product design leadership.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "Lead Product Designer" DeFi Remote
+site:linkedin.com/jobs "Senior Product Designer" Web3 Remote
+site:linkedin.com/jobs "Product Designer" DeFi OR Web3 OR RWA "Remote (EU)" OR "Remote (Worldwide)" OR "Remote - Europe"
+"Product Designer" "DeFi" Remote job -"Remote US" -"US only"
+"UX Architect" Web3 Remote
+"Product Designer" "RWA" OR "real-world assets" Remote
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
-
-Adjacent roles you could pivot into.
-
+Portuguese:
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
+"Designer de Produto" DeFi remoto
 ```
 
-### Priority 4: Broader Technical / Consulting
+### Priority 2: AI-Native Product Designer (broader, any industry)
 
-Wider net for general technical roles.
+Leans into the AI-assisted prototyping angle (Claude Code, Claude Design, Lovable, Figma Make) across any product domain.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "AI Product Designer" Remote
+site:linkedin.com/jobs "Product Designer" "Figma Make" OR "Lovable" OR "Claude Code" OR "Cursor" Remote
+"AI-native designer" Remote job
+"Product Designer" "AI prototyping" Remote
+"agent-native design" OR "agentic design" "Product Design" Remote
+"Product Designer" "Claude Code" OR "Cursor" OR "Lovable" "Remote (EU)" OR "Remote Worldwide"
+```
+
+Portuguese:
+```
+"Designer de Produto" "IA" remoto
+```
+
+### Priority 3: Design Leadership (Head of Design / Design Director)
+
+Adjacent leadership roles to pivot into.
+
+```
+site:linkedin.com/jobs "Head of Design" Remote
+site:linkedin.com/jobs "Design Director" Remote
+"Head of Design" DeFi OR Web3 Remote
+"Design Lead" fintech Remote
+"Head of Design" OR "Design Director" "Remote (EU)" OR "Remote Worldwide" -"Remote US"
+```
+
+### Priority 4: Broader Product Design / Consulting
+
+Wider net for general remote product design roles.
+
+```
+site:linkedin.com/jobs "Product Designer" Remote design systems -"Remote US"
+"UX Designer" Remote fintech
+"Design Consultant" AI OR Web3 Remote
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+The candidate is remote-only with no location or commute preference (worldwide). When evaluating results, apply only the remote-work filter, not a geographic one:
+- Fully remote: acceptable, any country
+- Hybrid or on-site required: excluded (hard deal-breaker, see CLAUDE.md)
+- Relocation required: excluded
+
+**FIXER note (2026-08-07):** a plain `Remote` keyword does not distinguish worldwide-remote from
+`Remote US`/`Remote - US`-only postings — the batch this note responds to pulled in 6 US-only-remote
+or on-site/hybrid postings out of 12 results, a majority. Two fixes now applied to reduce this at
+search time rather than catching it only downstream during fit assessment:
+1. Several query strings above now add `"Remote (EU)"`/`"Remote Worldwide"`/`-"Remote US"` qualifiers.
+2. The freehire-search CLI call should pass `--region eu,global,none` (see Search Sites note above)
+   so region-resolved US-only postings are excluded before they ever reach the candidate list.
+
+This is a bias, not a hard filter — Google's `site:` operator and freehire's region facet cannot
+perfectly separate "Remote US" from genuinely worldwide-remote roles, since many postings resolve
+their region field to `us` even when the description text says "worldwide." **Always confirm the
+posting's own structured location data (Ashby/Greenhouse job-board API, or the posting's explicit
+"countries we consider" field) before writing a final REJECT on location** — see the 2026-08-07
+candidates file for the Mural/Ethos Life/Kindred verification pattern to follow.
 
 ## Language Filter
 
