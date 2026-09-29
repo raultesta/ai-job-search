@@ -1,0 +1,94 @@
+{
+  "seen": {
+    "kevel-director-of-product-design": {
+      "title": "Director of Product Design",
+      "company": "Kevel",
+      "url": "https://to.indeed.com/aadzhgx4l79m",
+      "first_seen": "2026-09-29",
+      "fit": "high",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "fluxon-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Fluxon",
+      "url": "https://to.indeed.com/aatvjhh4htm8",
+      "first_seen": "2026-09-29",
+      "fit": "high",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "revolut-product-designer-platform": {
+      "title": "Product Designer (Platform)",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aatp4tmgxpxn",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "roompricegenie-remote-head-of-ux": {
+      "title": "Remote Head of UX (m/f/d)",
+      "company": "RoomPriceGenie",
+      "url": "https://to.indeed.com/aacgkhdbcbgw",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "mural-director-of-product-design-ai-agentic-workflows": {
+      "title": "Director of Product Design, AI & Agentic Workflows",
+      "company": "Mural",
+      "url": "https://jobs.ashbyhq.com/mural/add2aee4-6f83-4c42-a38c-53b3090ada0e",
+      "first_seen": "2026-09-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "trustwallet-senior-product-designer-web3-defi-crypto": {
+      "title": "Senior Product Designer - Web3 / DeFi / Crypto",
+      "company": "Trust Wallet",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-designer-web3-defi-crypto-at-trust-wallet-4108788069",
+      "first_seen": "2026-09-29",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "spectrum-search-senior-product-designer-defi": {
+      "title": "Senior Product Designer (DeFi) - European Union",
+      "company": "Spectrum Search",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-designer-defi-at-spectrum-search-4340470040",
+      "first_seen": "2026-09-29",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "delphia-head-of-design": {
+      "title": "Head of Design",
+      "company": "Delphia",
+      "url": "https://web3.career/head-of-design-delphia/38944",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "pluto-head-of-design": {
+      "title": "Head of Design",
+      "company": "Pluto",
+      "url": "https://web3.career/head-of-design-pluto/95792",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "glassnode-senior-product-designer-taxes": {
+      "title": "Senior Product Designer - Taxes",
+      "company": "Glassnode",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-designer-taxes-remote-m-f-d-at-glassnode-3361946450",
+      "first_seen": "2026-09-29",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    }
+  }
+}
