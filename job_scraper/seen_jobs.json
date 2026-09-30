@@ -89,6 +89,60 @@
       "fit": "medium",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "mystenlabs-staff-product-designer-defi": {
+      "title": "Staff Product Designer, DeFi",
+      "company": "Mysten Labs",
+      "url": "https://jobs.ashbyhq.com/mystenlabs/b83dab9a-e925-4628-aaca-4caa122d4d73",
+      "first_seen": "2026-09-30",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "circle-lead-product-designer-arc-platform": {
+      "title": "Lead Product Designer, Arc Platform",
+      "company": "Circle",
+      "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100481EXTERNALENUS/Lead-Product-Designer-Arc-Platform",
+      "first_seen": "2026-09-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "affirm-staff-product-designer-agentic-experiences": {
+      "title": "Staff Product Designer, Agentic Experiences",
+      "company": "Affirm",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7799295003",
+      "first_seen": "2026-09-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "webflow-staff-product-designer-agentic-cms": {
+      "title": "Staff Product Designer, Agentic CMS",
+      "company": "Webflow",
+      "url": "https://freehire.me/jobs/staff-product-designer-agentic-cms-webflow-5rfz4xlk",
+      "first_seen": "2026-09-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "fatsoma-product-designer-senior-to-lead": {
+      "title": "Product Designer (Senior to Lead)",
+      "company": "Fatsoma",
+      "url": "https://to.indeed.com/aaff48n4v68x",
+      "first_seen": "2026-09-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "bitpanda-senior-product-designer-securities": {
+      "title": "Senior Product Designer, Securities",
+      "company": "Bitpanda",
+      "url": "https://freehire.me/jobs/senior-product-designer-securities-bitpanda-lkbh7ill",
+      "first_seen": "2026-09-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
