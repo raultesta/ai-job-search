@@ -143,6 +143,51 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "donorbox-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Donorbox",
+      "url": "https://to.indeed.com/aaqktjpcfrdz",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "ethenalabs-senior-product-designer-ethena-pay": {
+      "title": "Senior Product Designer - Ethena Pay",
+      "company": "Ethena Labs",
+      "url": "https://careers.ethena.fi/jobs/8445449-senior-product-designer-ethena-pay",
+      "first_seen": "2026-10-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "jitofoundation-product-designer": {
+      "title": "Product Designer (JTX)",
+      "company": "Jito Foundation",
+      "url": "https://jobs.lever.co/jito/97151aba-e3eb-483d-b56c-34711b873760",
+      "first_seen": "2026-10-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "hospitable-head-of-design": {
+      "title": "Head of Design (North America/Europe - Remote)",
+      "company": "Hospitable",
+      "url": "https://apply.workable.com/hospitable/j/B5161621AB",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "remote-head-of-design-emea": {
+      "title": "Head of Design",
+      "company": "Remote",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7445660003",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
     }
   }
 }
