@@ -188,6 +188,69 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch"
+    },
+    "n8n-senior-staff-product-designer-ai-team": {
+      "title": "Senior/Staff Product Designer (AI Team)",
+      "company": "n8n",
+      "url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "n8n-head-of-product-design": {
+      "title": "Head of Product Design",
+      "company": "n8n",
+      "url": "https://jobs.ashbyhq.com/n8n/eee6e2dc-c565-4cef-adee-a054b59b1c28",
+      "first_seen": "2026-10-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ondofinance-senior-product-designer-securities-commodities": {
+      "title": "Senior Product Designer - Securities & Commodities",
+      "company": "Ondo Finance",
+      "url": "https://job-boards.greenhouse.io/ondofinance/jobs/4291454009",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "engine-product-design-director-fintech": {
+      "title": "Product Design Director, Fintech",
+      "company": "Engine",
+      "url": "https://job-boards.greenhouse.io/engine/jobs/7548999003",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "digify-product-designer-ai-prototyping": {
+      "title": "Product Designer (AI Prototyping) - 202609",
+      "company": "Digify",
+      "url": "https://apply.workable.com/digifycareers/",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "atria-ai-native-full-stack-product-designer": {
+      "title": "AI-Native Full-Stack Product Designer",
+      "company": "Atria",
+      "url": "https://jobs.ashbyhq.com/atria/7bc02a5c-40bf-462e-8e18-af7e2d95f4a6",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "bitgo-head-of-design-product-design": {
+      "title": "Head of Design, Product Design",
+      "company": "BitGo",
+      "url": "https://freehire.me/jobs/head-of-design-product-design-bitgo-prime-llc-37usnd4p",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
