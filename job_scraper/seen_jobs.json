@@ -251,6 +251,60 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "vanta-head-of-design": {
+      "title": "Head of Design (VP)",
+      "company": "Vanta",
+      "url": "https://jobs.ashbyhq.com/vanta/19837d21-971e-4b9d-b078-320895fae28a",
+      "first_seen": "2026-10-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "airwallex-staff-product-designer-agentic-finance": {
+      "title": "Staff Product Designer (Founding Designer, Agentic Finance)",
+      "company": "Airwallex",
+      "url": "https://careers.airwallex.com/job/2e2b7832-9e48-45da-ab0e-030708f0a45b/staff-product-designer/",
+      "first_seen": "2026-10-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "injective-labs-product-designer": {
+      "title": "Product Designer (DeFi / DApps) - posted on 2 Ashby org listings (Injective / injective-labs)",
+      "company": "Injective Labs",
+      "url": "https://jobs.ashbyhq.com/Injective/00aacb23-0dfc-41ae-a40d-5eb1badc3863",
+      "first_seen": "2026-10-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "cointracker-lead-product-designer": {
+      "title": "Lead Product Designer",
+      "company": "CoinTracker",
+      "url": "https://jobs.ashbyhq.com/cointracker/83066464-ef89-4571-8aee-b4b29ea5d1ff",
+      "first_seen": "2026-10-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "trmlabs-head-of-product-design": {
+      "title": "Head of Product Design",
+      "company": "TRM Labs",
+      "url": "https://jobs.ashbyhq.com/trm-labs/16660699-5a97-42da-a8b7-9b91f81cf199",
+      "first_seen": "2026-10-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "garden3d-head-of-design": {
+      "title": "Head of Design (contract)",
+      "company": "Garden3D",
+      "url": "https://weworkremotely.com/remote-jobs/garden3d-head-of-design",
+      "first_seen": "2026-10-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
     }
   }
 }
