@@ -305,6 +305,186 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch"
+    },
+    "blockchain-com-product-design-lead-consumer": {
+      "title": "Product Design Lead, Consumer",
+      "company": "Blockchain.com",
+      "url": "https://job-boards.greenhouse.io/blockchain/jobs/7408756",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "stonfi-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "STON.fi",
+      "url": "https://web3.career/senior-product-designer-ston-fi/80693",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "solanafoundation-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Solana Foundation",
+      "url": "https://jobs.ashbyhq.com/solana%20foundation/3ea82c08-496e-4908-a5e2-54717dc44262",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "tether-senior-product-designer-wallets": {
+      "title": "Senior Product Designer (Wallets) - 100% Remote Worldwide",
+      "company": "Tether Operations Limited",
+      "url": "https://careers.tether.io/o/senior-product-designer-wallets-100-remote-worldwide",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "bitpanda-senior-product-designer-advanced-trading": {
+      "title": "Senior Product Designer, Advanced Trading (Bitpanda Fusion)",
+      "company": "Bitpanda",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4814046101",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "bitpanda-senior-product-designer-websites": {
+      "title": "Senior Product Designer, Websites",
+      "company": "Bitpanda",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4791535101",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "lisk-product-designer": {
+      "title": "Product Designer",
+      "company": "Lisk",
+      "url": "https://lisk.jobs.personio.com/job/2744262",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "lifi-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "LI.FI",
+      "url": "https://jobs.ashbyhq.com/li.fi/2cb0eb42-f7da-4412-8040-a6dc3bb86872",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ethenalabs-head-of-product-design": {
+      "title": "Head of Product Design",
+      "company": "Ethena Labs",
+      "url": "https://web3.career/head-of-product-design-ethenalabs/138593",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "metamask-design-director-transactions": {
+      "title": "Design Director - MetaMask (Transactions)",
+      "company": "Consensys",
+      "url": "https://consensys.io/open-roles/7440972",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "zerion-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Zerion",
+      "url": "https://web3.career/senior-product-designer-zerion/32467",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "braintrust-senior-product-designer-remote": {
+      "title": "Senior Product Designer (freelance marketplace listing)",
+      "company": "Braintrust",
+      "url": "https://web3.career/senior-product-designer-remote-braintrust/32450",
+      "first_seen": "2026-10-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "consensys-head-of-design": {
+      "title": "Head of Design (no distinct posting found - appears to be the same role as MetaMask Design Director, Transactions)",
+      "company": "Consensys",
+      "url": "https://consensys.io/open-roles/7440972",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "polygonlabs-head-of-design": {
+      "title": "Head of Design",
+      "company": "Polygon Labs",
+      "url": "https://web3.career/head-of-design-polygon/58656",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "orca-head-of-design": {
+      "title": "Head of Design",
+      "company": "Orca",
+      "url": "https://coinbase.getro.com/companies/orca/jobs/41692575-head-of-design",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "moonrail-csgoempire-head-of-design": {
+      "title": "Head of Design (fully remote Europe)",
+      "company": "Moonrail Limited / CSGOEmpire",
+      "url": "https://nodesk.co/remote-jobs/csgoempire-head-of-design-fully-remote-in-europe-180k-200k/",
+      "first_seen": "2026-10-04",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "uniswaplabs-senior-design-lead": {
+      "title": "Senior Design Lead",
+      "company": "Uniswap Labs",
+      "url": "https://web3.career/senior-design-lead-uniswaplabs/107678",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "21shares-amun-head-of-design": {
+      "title": "Head of Design",
+      "company": "21Shares / Amun",
+      "url": "https://web3.career/head-of-design-amun/24",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "emurgo-product-designer": {
+      "title": "Product Designer (Figma, Cursor, Claude Code, Figma Make)",
+      "company": "EMURGO",
+      "url": "https://itjobswatch.co.uk/",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "instacart-staff-experience-designer-meals-health": {
+      "title": "Staff Experience Designer - Meals and Health",
+      "company": "Instacart",
+      "url": "https://www.instacart.careers/job?gh_jid=8084090",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
