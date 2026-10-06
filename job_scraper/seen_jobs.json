@@ -485,6 +485,96 @@
       "fit": "medium",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "taxdome-head-of-design": {
+      "title": "Head of Design",
+      "company": "TaxDome",
+      "url": "https://freehire.me/jobs/head-of-design-taxdome-hirehire-uqyldm64",
+      "first_seen": "2026-10-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "opensea-staff-product-designer": {
+      "title": "Staff Product Designer",
+      "company": "OpenSea",
+      "url": "https://freehire.me/jobs/staff-product-designer-opensea-iup2izom",
+      "first_seen": "2026-10-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "phantom-staff-product-designer-growth-engagement": {
+      "title": "Staff Product Designer, Growth & Engagement",
+      "company": "Phantom",
+      "url": "https://jobs.ashbyhq.com/phantom/0844373f-aecc-4290-bd1e-159d15b29ae2",
+      "first_seen": "2026-10-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "breakmark-ai-native-product-designer": {
+      "title": "AI-Native Product Designer",
+      "company": "Breakmark",
+      "url": "https://jobs.ashbyhq.com/breakmark/29c5bcda-b289-49ca-8cbb-37b45f654fcb",
+      "first_seen": "2026-10-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "hyphenconnect-lead-product-designer-crypto-exchange": {
+      "title": "Lead Product Designer (Crypto Exchange)",
+      "company": "Hyphen Connect Limited",
+      "url": "https://freehire.me/jobs/lead-product-designer-crypto-exchange-hyphen-connect-limited-kkpacjql",
+      "first_seen": "2026-10-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "lazer-senior-product-designer-crypto": {
+      "title": "Senior Product Designer - Crypto",
+      "company": "Lazer",
+      "url": "https://web3.career/senior-product-designer-crypto-lazer/139667",
+      "first_seen": "2026-10-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "apexnetwork-product-and-ui-designer": {
+      "title": "Product and User Interface Designer",
+      "company": "Apex Network",
+      "url": "https://freehire.me/jobs/product-and-user-interface-designer-apex-network-ygnxkfcb",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ratio-design-director": {
+      "title": "Design Director",
+      "company": "Ratio",
+      "url": "https://www.linkedin.com/jobs/view/design-director-at-ratio-3813992129",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "okx-senior-product-designer-web3-growth": {
+      "title": "Senior Product Designer, Web3 Growth",
+      "company": "OKX",
+      "url": "https://freehire.me/jobs/senior-product-designer-web3-growth-okx-zwemhvt3",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "jobgether-staff-product-designer-defi": {
+      "title": "Staff Product Designer, DeFi",
+      "company": "jobgether",
+      "url": "https://freehire.me/jobs/staff-product-designer-defi-jobgether-cm4xwh6d",
+      "first_seen": "2026-10-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
     }
   }
 }
