@@ -575,6 +575,231 @@
       "fit": "low",
       "status": "new",
       "portal": "websearch"
+    },
+    "manie-head-of-growth": {
+      "title": "Head of Growth",
+      "company": "Manie",
+      "url": "https://to.indeed.com/aa84glmdw92s",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "allcares-senior-product-manager": {
+      "title": "Senior Product Manager",
+      "company": "All Cares",
+      "url": "https://to.indeed.com/aas6726j7tf4",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "xsolla-product-owner-subscriptions": {
+      "title": "Product Owner, Subscriptions",
+      "company": "Xsolla",
+      "url": "https://to.indeed.com/aap62vs6tgk2",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "oqen-tech-lead": {
+      "title": "Tech Lead",
+      "company": "OQEN",
+      "url": "https://to.indeed.com/aam2mkwt7zfj",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "xsolla-product-owner-partner-network": {
+      "title": "Product Owner, Xsolla Partner Network",
+      "company": "Xsolla",
+      "url": "https://to.indeed.com/aa8t6yhk8gjj",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "allcares-ai-product-manager-agentic-platform": {
+      "title": "AI Product Manager (Agentic Platform)",
+      "company": "All Cares",
+      "url": "https://to.indeed.com/aab7xmsv4bxh",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "capslock-product-manager": {
+      "title": "Product Manager",
+      "company": "CapsLock",
+      "url": "https://to.indeed.com/aasybgc6dcv9",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "xsolla-senior-product-owner-money-account": {
+      "title": "Senior Product Owner – Xsolla Money Account",
+      "company": "Xsolla",
+      "url": "https://to.indeed.com/aa66wngy8zsc",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "revolut-head-of-product-fraud": {
+      "title": "Head of Product (Fraud)",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aazxptdglqlb",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "fyst-head-of-engineering-cto": {
+      "title": "Head of Engineering / CTO (Partner Company Role)",
+      "company": "Fyst",
+      "url": "https://to.indeed.com/aadz2m7gctw8",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "moniepoint-head-of-engineering-sales-marketing-tools": {
+      "title": "Head of Engineering, Sales & Marketing Tools",
+      "company": "Moniepoint",
+      "url": "https://to.indeed.com/aahn4fh8tqkk",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "laminarprojects-demand-generation-manager": {
+      "title": "Demand Generation Manager - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "url": "https://to.indeed.com/aadscvqkrqr6",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "saasgroup-head-of-engineering": {
+      "title": "Head of Engineering",
+      "company": "Saas.group",
+      "url": "https://to.indeed.com/aaxmv6pycr4s",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "parqetfintech-mobile-engineer-react-native": {
+      "title": "Mobile Engineer (React Native)",
+      "company": "Parqet Fintech GmbH",
+      "url": "https://to.indeed.com/aancj8lr8smt",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "pony-freelance-visual-designer": {
+      "title": "Freelance Visual Designer",
+      "company": "PONY",
+      "url": "https://to.indeed.com/aavp72twr2vc",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "visionomics-senior-product-designer-uiux": {
+      "title": "Senior Product Designer, UI/UX",
+      "company": "Visionomics",
+      "url": "https://to.indeed.com/aac9x42f6bdp",
+      "first_seen": "2026-10-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "northbeam-senior-ux-visual-designer": {
+      "title": "Senior UX Visual Designer",
+      "company": "Northbeam",
+      "url": "https://to.indeed.com/aa2wjcvg8kgh",
+      "first_seen": "2026-10-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "future-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Future",
+      "url": "https://to.indeed.com/aamh98jqs8rm",
+      "first_seen": "2026-10-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "skyglobalsolutions-senior-ux-designer-temporary": {
+      "title": "Senior UX Designer (Temporary)",
+      "company": "Sky Global Solutions",
+      "url": "https://to.indeed.com/aa68zyw8m8mq",
+      "first_seen": "2026-10-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "oura-senior-product-designer-b2b-ecommerce": {
+      "title": "Senior Product Designer, B2B eCommerce",
+      "company": "oura",
+      "url": "https://to.indeed.com/aapg89xljqn4",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "vclab-senior-uxui-designer-remote": {
+      "title": "Senior UX/UI Designer (Remote)",
+      "company": "VC Lab",
+      "url": "https://to.indeed.com/aahkf9npfyf6",
+      "first_seen": "2026-10-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "figure-principal-product-designer": {
+      "title": "Principal Product Designer",
+      "company": "Figure",
+      "url": "https://to.indeed.com/aacxjv72g6nw",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "computerworldservices-senior-ux-interface-designer": {
+      "title": "Senior UX Interface Designer",
+      "company": "Computer World Services",
+      "url": "https://to.indeed.com/aa4nvxgp46hh",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "realchemistry-product-designer": {
+      "title": "Product Designer",
+      "company": "Real Chemistry",
+      "url": "https://to.indeed.com/aa968wxvlt2z",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "homefromcollege-lead-product-designer": {
+      "title": "Lead Product Designer",
+      "company": "Home From College",
+      "url": "https://to.indeed.com/aaq6nlcxkyvx",
+      "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
