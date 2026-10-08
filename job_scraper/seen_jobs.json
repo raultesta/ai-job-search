@@ -640,7 +640,7 @@
       "portal": "indeed-mcp"
     },
     "xsolla-senior-product-owner-money-account": {
-      "title": "Senior Product Owner – Xsolla Money Account",
+      "title": "Senior Product Owner \u2013 Xsolla Money Account",
       "company": "Xsolla",
       "url": "https://to.indeed.com/aa66wngy8zsc",
       "first_seen": "2026-10-07",
@@ -797,6 +797,204 @@
       "company": "Home From College",
       "url": "https://to.indeed.com/aaq6nlcxkyvx",
       "first_seen": "2026-10-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "ethereumfoundation-web3-ux-lead": {
+      "title": "Web3 UX Lead (Protocol)",
+      "company": "Ethereum Foundation",
+      "url": "https://web3.career/i/2EDM0ATM",
+      "first_seen": "2026-10-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "pythnetwork-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Pyth Network",
+      "url": "https://web3.career/i/2MzN0ITM",
+      "first_seen": "2026-10-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "outsystems-principal-agent-experience-designer": {
+      "title": "Principal Agent Experience Designer",
+      "company": "OutSystems",
+      "url": "https://remotive.com/remote/jobs/design/principal-agent-experience-designer-4137823",
+      "first_seen": "2026-10-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "chainsafe-ux-lead-chain-abstraction": {
+      "title": "UX Lead - Chain Abstraction",
+      "company": "ChainSafe Systems",
+      "url": "https://web3.career/ux-lead-chain-abstraction-chainsafesystems/72526",
+      "first_seen": "2026-10-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "remblock-head-of-design": {
+      "title": "Head of Design",
+      "company": "Remblock",
+      "url": "https://cryptojobslist.com/jobs/head-of-design-at-remblock-remote",
+      "first_seen": "2026-10-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "mlabs-lead-product-designer-web3-defi": {
+      "title": "Lead Product Designer (Web3/DeFi)",
+      "company": "MLabs",
+      "url": "https://designproject.io/jobs/jobs/lead-product-designer-at-mlabs-fs619r",
+      "first_seen": "2026-10-08",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "webflow-design-director": {
+      "title": "Design Director",
+      "company": "Webflow",
+      "url": "https://builtin.com/job/design-director/7160459",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "plumenetwork-product-designer-rwa": {
+      "title": "Product Designer (RWA)",
+      "company": "Plume Network",
+      "url": "https://builtin.com/job/product-designer/6945527",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "zerion-product-designer-usa": {
+      "title": "Product Designer (USA)",
+      "company": "Zerion",
+      "url": "https://jobs.weekday.works/zerion-product-designer---usa",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "veda-design-lead": {
+      "title": "Design Lead",
+      "company": "Veda",
+      "url": "https://builtin.com/job/design-lead/7736033",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "starboardnetworks-uiux-designer": {
+      "title": "UI/UX Designer",
+      "company": "Starboard Networks",
+      "url": "https://web3.career/ui-ux-designer-starboard-networks/51294",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "dourolabs-senior-product-designer": {
+      "title": "Senior Product Designer (marketing-focused)",
+      "company": "Douro Labs",
+      "url": "https://app.icebreaker.xyz/jobs/58259580",
+      "first_seen": "2026-10-08",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "metalab-ai-native-product-designer": {
+      "title": "AI Native Product Designer",
+      "company": "Metalab",
+      "url": "https://designproject.io/jobs/ai-native-product-designer-at-metalab-avyj83",
+      "first_seen": "2026-10-08",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "kosmo-ai-native-product-designer": {
+      "title": "AI-native Product Designer",
+      "company": "Kosmo",
+      "url": "https://boosta.biz/vacancies/ai-native-product-designer-kosmo/",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "orangeuni-senior-ai-fullstack-developer": {
+      "title": "Senior AI Full-Stack Developer",
+      "company": "Orange Uni",
+      "url": "https://to.indeed.com/aazwnjls6fnr",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "syndigo-solution-architect-french-speaking": {
+      "title": "Solution Architect, French Speaking",
+      "company": "SyndiGO",
+      "url": "https://to.indeed.com/aacmrm7lhxfq",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "umotech-ai-architect": {
+      "title": "AI Architect (TL)",
+      "company": "UMO Tech",
+      "url": "https://to.indeed.com/aag6dyhl8p8y",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "umotech-senior-fullstack-engineer-payments": {
+      "title": "Senior Full Stack Engineer - Payments (TL)",
+      "company": "UMO Tech",
+      "url": "https://to.indeed.com/aa7842jpb9tb",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "revolut-graduate-product-owner-ux-2027": {
+      "title": "Graduate Programme 2027: Product Owner (UX)",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aav86vr6wbdd",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "hyphen-digital-accessibility-specialist": {
+      "title": "Digital Accessibility Specialist",
+      "company": "hyphen",
+      "url": "https://to.indeed.com/aaqbbm9fdymv",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "quadcode-desktop-ui-developer-ai-software": {
+      "title": "Desktop UI Developer (AI Software)",
+      "company": "QuadCode",
+      "url": "https://to.indeed.com/aafqkzyhkpwx",
+      "first_seen": "2026-10-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "provectus-fde-ai-solutions-architect": {
+      "title": "FDE AI / Solutions Architect (AI, Python/Data)",
+      "company": "Provectus",
+      "url": "https://to.indeed.com/aaf2hsy4v6yr",
+      "first_seen": "2026-10-08",
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
