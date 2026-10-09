@@ -640,7 +640,7 @@
       "portal": "indeed-mcp"
     },
     "xsolla-senior-product-owner-money-account": {
-      "title": "Senior Product Owner \u2013 Xsolla Money Account",
+      "title": "Senior Product Owner – Xsolla Money Account",
       "company": "Xsolla",
       "url": "https://to.indeed.com/aa66wngy8zsc",
       "first_seen": "2026-10-07",
@@ -997,6 +997,240 @@
       "first_seen": "2026-10-08",
       "fit": "low",
       "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "pandadoc-head-of-design-customer-value-track": {
+      "title": "Head of Design (Customer Value track)",
+      "company": "PandaDoc",
+      "url": "https://www.pandadoc.com/careers/head-of-design-customer-value-track-eu",
+      "first_seen": "2026-10-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "amplemarket-senior-staff-product-designer": {
+      "title": "Senior/Staff Product Designer",
+      "company": "Amplemarket",
+      "url": "https://to.indeed.com/aalxcrlplc8n",
+      "first_seen": "2026-10-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "deel-lead-product-designer-fintech": {
+      "title": "Lead Product Designer (fintech)",
+      "company": "Deel",
+      "url": "https://remotive.com/remote/jobs/design/lead-product-designer-4370478",
+      "first_seen": "2026-10-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "consensys-lead-product-designer-prediction-markets-metamask": {
+      "title": "Lead Product Designer, Prediction Markets (MetaMask)",
+      "company": "Consensys",
+      "url": "https://designproject.io/jobs/lead-product-designer-at-consensys-zd0tte",
+      "first_seen": "2026-10-09",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "gnosis-guild-web3-design-lead": {
+      "title": "Web3 Design Lead",
+      "company": "Gnosis Guild",
+      "url": "https://web3.career/i/2EjNyITM",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "blockchain-com-head-of-design-web3": {
+      "title": "Head of Design (Web3)",
+      "company": "Blockchain.com",
+      "url": "https://web3.career/i/wkjNwQTM",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "aviato-tech-consulting-ai-product-designer-ui-ux-designer": {
+      "title": "AI Product Designer (UI/UX Designer)",
+      "company": "Aviato Tech Consulting",
+      "url": "https://platform-v2.wearedevelopers.com/en/jobs/ext/6167920/ai-product-designer-ui-ux-designer",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "centroid-sol-senior-ui-ux-designer-fintech-fully-remote": {
+      "title": "Senior UI/UX Designer, FinTech (fully remote)",
+      "company": "Centroid Sol",
+      "url": "https://centroidsol.com/career/senior-uiux-designer-fintech--fully-remote",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "unnamed-fintech-uiuxjobsboard-listing-senior-ux-designer-fintech-remote-europe-contract": {
+      "title": "Senior UX Designer, FinTech (Remote Europe, contract)",
+      "company": "Unnamed fintech (uiuxjobsboard listing)",
+      "url": "https://uiuxjobsboard.com/job/1374526-remote-europe-fintech-senior-ux-designer",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ewor-gmbh-fintech-ui-ux-brand-designer-100-remote-m-f-d": {
+      "title": "Fintech UI/UX & Brand Designer (100% remote) (m/f/d)",
+      "company": "EWOR GmbH",
+      "url": "https://designproject.io/jobs/fintech-uiux-and-brand-designer-100-percent-remote-mfd-at-ewor-gmbh-5upso3",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "unlimit-design-lead-fintech": {
+      "title": "Design Lead (fintech)",
+      "company": "Unlimit",
+      "url": "https://builtin.com/job/design-lead/3600156",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "zircuit-ui-ux-designer-web3": {
+      "title": "UI/UX Designer (Web3)",
+      "company": "Zircuit",
+      "url": "https://web3.career/ui-ux-designer-zircuit/90165",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "unnamed-uiuxjobsboard-listing-ux-designer-developer-remote-portugal-gmt-ft-contract": {
+      "title": "UX Designer/Developer (Remote Portugal, GMT, FT contract)",
+      "company": "Unnamed (uiuxjobsboard listing)",
+      "url": "https://uiuxjobsboard.com/job/953124-remote-portugal-ux-designer-developer-gmt-remote-ft-contract",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "moniepoint-design-leadership-role-posted-identically-across-3-greenhouse-listings": {
+      "title": "Design leadership role (posted identically across 3 Greenhouse listings)",
+      "company": "Moniepoint",
+      "url": "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4944263101",
+      "first_seen": "2026-10-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "metalab-ai-native-product-designer-americas-timezones-only": {
+      "title": "AI Native Product Designer (Americas timezones only)",
+      "company": "MetaLab",
+      "url": "https://designproject.io/jobs/ai-native-product-designer-at-metalab-avyj83",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "render-staff-product-designer-agent-experience-us-based": {
+      "title": "Staff Product Designer, Agent Experience (US-based)",
+      "company": "Render",
+      "url": "https://designproject.io/jobs/staff-product-designer-agent-experience-at-render-jh48cc",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "figma-product-designer-remote-uk-only": {
+      "title": "Product Designer (Remote UK only)",
+      "company": "Figma",
+      "url": "https://uiuxjobsboard.com/job/1616326-remote-united-kingdom-product-designer",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "chainlink-labs-head-of-design-closed-expired": {
+      "title": "Head of Design (closed/expired)",
+      "company": "Chainlink Labs",
+      "url": "https://web3.career/head-of-design-chainlink/9319",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "hospitable-head-of-design-north-america-europe-remote-portugal-not-in-eligible-country-list": {
+      "title": "Head of Design, North America/Europe Remote (Portugal not in eligible-country list)",
+      "company": "Hospitable",
+      "url": "https://remowork.life/jobs/6a74793c45696ef1333106cf/head-of-design-north-americaeurope-remote",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "kamino-head-of-product-design-defi-uk-focused": {
+      "title": "Head of Product Design @DeFi (UK-focused)",
+      "company": "Kamino",
+      "url": "https://hireyio.teamtailor.com/jobs/5230796-head-of-product-design-defi-uk",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "hightouch-senior-product-designer-agents-north-america-only": {
+      "title": "Senior Product Designer - Agents (North America only)",
+      "company": "Hightouch",
+      "url": "https://www.workingnomads.com/jobs/senior-product-designer-agents-hightouch",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "collective-senior-product-design-lead-growth-activation-in-office-or-remote": {
+      "title": "Senior Product Design Lead, growth/activation (in-office or remote)",
+      "company": "Collective",
+      "url": "https://builtin.com/job/design-lead/7042596",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "veda-design-lead-us-hiring-only": {
+      "title": "Design Lead (US-hiring only)",
+      "company": "Veda",
+      "url": "https://builtin.com/job/design-lead/7736033",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "revolut-graduate-programme-2027-product-designer": {
+      "title": "Graduate Programme 2027: Product Designer",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aa82lndm977s",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "revolut-internship-programme-2027-product-owner-ux": {
+      "title": "Internship Programme 2027: Product Owner (UX)",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aagdvqb7vy67",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "medvidi-health-senior-frontend-developer-non-design-role": {
+      "title": "Senior Frontend Developer (non-design role)",
+      "company": "MEDvidi Health",
+      "url": "https://to.indeed.com/aaz4kxf69tqz",
+      "first_seen": "2026-10-09",
+      "fit": "low",
+      "status": "new",
       "portal": "indeed-mcp"
     }
   }
