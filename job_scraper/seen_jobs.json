@@ -1232,6 +1232,60 @@
       "fit": "low",
       "status": "new",
       "portal": "indeed-mcp"
+    },
+    "sundaeswap-lead-product-design-web3": {
+      "title": "Lead Product Design (Web3/DeFi)",
+      "company": "SundaeSwap Labs",
+      "url": "https://web3.career/lead-product-design-sundaeswap/1165",
+      "first_seen": "2026-10-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "playmestudio-ai-product-designer": {
+      "title": "AI Product Designer",
+      "company": "PlayMe Studio",
+      "url": "https://djinni.co/jobs/838780-ai-product-designer/",
+      "first_seen": "2026-10-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "teladoc-senior-product-designer": {
+      "title": "Senior Product Designer",
+      "company": "Teladoc Health",
+      "url": "https://to.indeed.com/aaxxbv27pgmt",
+      "first_seen": "2026-10-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "meld-head-of-design": {
+      "title": "Head of Design",
+      "company": "Meld",
+      "url": "https://cryptojobslist.com/jobs/head-of-design-meld-remote",
+      "first_seen": "2026-10-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "rain-technologies-head-of-design": {
+      "title": "Head of Design",
+      "company": "Rain Technologies",
+      "url": "https://designproject.io/jobs/head-of-design-at-rain-technologies-inc-iauz7v",
+      "first_seen": "2026-10-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "near-pagoda-director-of-design": {
+      "title": "Director of Design",
+      "company": "NEAR / Pagoda",
+      "url": "https://web3.career/director-of-design-near/41961",
+      "first_seen": "2026-10-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
