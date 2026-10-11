@@ -1286,6 +1286,51 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "https://apply.workable.com/hospitable/jobs/view/B5161621AB": {
+      "title": "Head of Design (North America/Europe - Remote)",
+      "company": "Hospitable",
+      "url": "https://apply.workable.com/hospitable/jobs/view/B5161621AB",
+      "first_seen": "2026-10-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "https://startup.jobs/lead-product-designer-etherfi-8304095": {
+      "title": "Lead Product Designer",
+      "company": "ether.fi",
+      "url": "https://startup.jobs/lead-product-designer-etherfi-8304095",
+      "first_seen": "2026-10-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://web3.career/lead-product-designer-web3-okx/100431": {
+      "title": "Lead Product Designer, Web3",
+      "company": "OKX",
+      "url": "https://web3.career/lead-product-designer-web3-okx/100431",
+      "first_seen": "2026-10-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://designproject.io/jobs/product-designer-ii-defi-at-coinbase-careers-page-f145jk": {
+      "title": "Product Designer II, DeFi",
+      "company": "Coinbase",
+      "url": "https://designproject.io/jobs/product-designer-ii-defi-at-coinbase-careers-page-f145jk",
+      "first_seen": "2026-10-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://web3.career/senior-product-designer-coinshift/47344": {
+      "title": "Senior Product Designer",
+      "company": "Coinshift",
+      "url": "https://web3.career/senior-product-designer-coinshift/47344",
+      "first_seen": "2026-10-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
