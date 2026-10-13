@@ -640,7 +640,7 @@
       "portal": "indeed-mcp"
     },
     "xsolla-senior-product-owner-money-account": {
-      "title": "Senior Product Owner – Xsolla Money Account",
+      "title": "Senior Product Owner \u2013 Xsolla Money Account",
       "company": "Xsolla",
       "url": "https://to.indeed.com/aa66wngy8zsc",
       "first_seen": "2026-10-07",
@@ -1331,6 +1331,51 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "blockbyte-head-of-product-design-web3": {
+      "title": "Head of Product & Design (Web3, crypto-pay comp)",
+      "company": "Blockbyte",
+      "url": "https://web3.career/head-of-product-design-blockbyte/106848",
+      "first_seen": "2026-10-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "kakegroup-senior-ai-product-designer": {
+      "title": "Senior AI Product Designer",
+      "company": "KAKE Group",
+      "url": "https://jobs.lever.co/kakegroup/203edba6-8b06-4828-8137-ab01fc7aa145",
+      "first_seen": "2026-10-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ixdf-product-designer-ai-remote": {
+      "title": "Product Designer, AI (Remote)",
+      "company": "Unknown (ixdf.org listing)",
+      "url": "https://ixdf.org/jobs/product-designer-ai-remote-1rbrxa",
+      "first_seen": "2026-10-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "swanandedgar-product-designer-watches-accessories": {
+      "title": "Product Designer - Watches & Accessories (part-time)",
+      "company": "Swan & Edgar",
+      "url": "https://to.indeed.com/aayh4mytlsg4",
+      "first_seen": "2026-10-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "impowergmbh-product-designer-parttime": {
+      "title": "Product Designer (m/f/d, part-time)",
+      "company": "Impower GmbH",
+      "url": "https://to.indeed.com/aaswvqgjqvj8",
+      "first_seen": "2026-10-13",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
     }
   }
 }
