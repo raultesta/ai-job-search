@@ -640,7 +640,7 @@
       "portal": "indeed-mcp"
     },
     "xsolla-senior-product-owner-money-account": {
-      "title": "Senior Product Owner \u2013 Xsolla Money Account",
+      "title": "Senior Product Owner – Xsolla Money Account",
       "company": "Xsolla",
       "url": "https://to.indeed.com/aa66wngy8zsc",
       "first_seen": "2026-10-07",
@@ -1374,6 +1374,15 @@
       "url": "https://to.indeed.com/aaswvqgjqvj8",
       "first_seen": "2026-10-13",
       "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "orangeuni-senior-ai-ui-ux-designer": {
+      "title": "Senior AI UI/UX Designer",
+      "company": "Orange Uni",
+      "url": "https://to.indeed.com/aab64cm82y88",
+      "first_seen": "2026-10-14",
+      "fit": "high",
       "status": "new",
       "portal": "indeed-mcp"
     }
