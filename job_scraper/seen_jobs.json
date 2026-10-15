@@ -1385,6 +1385,51 @@
       "fit": "high",
       "status": "new",
       "portal": "indeed-mcp"
+    },
+    "naphora-games-group-senior-gameplay-programmer": {
+      "title": "Senior Gameplay Programmer",
+      "company": "Naphora Games Group",
+      "url": "https://to.indeed.com/aa9627dfky22",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "kendago-creative-lead-video": {
+      "title": "Creative Lead - Video",
+      "company": "KENDAGO",
+      "url": "https://to.indeed.com/aamlwwczgbmk",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "insightfultechnologies-freelance-business-consultant": {
+      "title": "Freelance Business Consultant / Strategic Technology Partner (UK)",
+      "company": "Insightful Technologies",
+      "url": "https://to.indeed.com/aarjjrk4qfbn",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "marketechdigitalsolutions-freelance-email-account-manager": {
+      "title": "Freelance Email Account Manager",
+      "company": "Marketech Digital Solutions",
+      "url": "https://to.indeed.com/aanfxrppknmj",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "quadcode-product-designer": {
+      "title": "Product Designer",
+      "company": "QuadCode",
+      "url": "https://to.indeed.com/aatrcqkkz789",
+      "first_seen": "2026-10-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
