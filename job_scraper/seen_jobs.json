@@ -1430,6 +1430,51 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "n-ix-product-manager-prototyping-design-specialization": {
+      "title": "Product Manager (Prototyping/Design Specialization)",
+      "company": "N-iX",
+      "url": "https://to.indeed.com/aa4lk4mqtkrf",
+      "first_seen": "2026-10-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "emagine-polska-senior-product-designer-agentic-lisbon": {
+      "title": "Senior Product Designer - Agentic (Lisbon)",
+      "company": "emagine Polska (staffing agency, client undisclosed)",
+      "url": "https://justjoin.it/job-offer/emagine-polska-senior-product-designer---agentic-lisbon-ux",
+      "first_seen": "2026-10-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "traderjoe-product-designer-dex": {
+      "title": "Product Designer",
+      "company": "Trader Joe (DEX)",
+      "url": "https://traderjoexyz.notion.site/Product-Designer-e363d37794b4430fb6a1bac86730ed4d",
+      "first_seen": "2026-10-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "theblock-web3-product-designer-mid-level": {
+      "title": "Web3 Product Designer (Mid-Level)",
+      "company": "The Block",
+      "url": "https://www.whynotremote.com/jobs/senior-product-designer-web3-defi-blockchain-crypto-d6429525",
+      "first_seen": "2026-10-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "jobot-defi-product-designer-arc": {
+      "title": "DeFi Product Designer",
+      "company": "Jobot",
+      "url": "https://arc.dev/remote-jobs/j/jobot-defi-product-designer-ljgqxnfhdd",
+      "first_seen": "2026-10-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
