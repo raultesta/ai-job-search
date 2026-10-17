@@ -640,7 +640,7 @@
       "portal": "indeed-mcp"
     },
     "xsolla-senior-product-owner-money-account": {
-      "title": "Senior Product Owner – Xsolla Money Account",
+      "title": "Senior Product Owner \u2013 Xsolla Money Account",
       "company": "Xsolla",
       "url": "https://to.indeed.com/aa66wngy8zsc",
       "first_seen": "2026-10-07",
@@ -1474,6 +1474,276 @@
       "first_seen": "2026-10-16",
       "fit": "low",
       "status": "skipped",
+      "portal": "websearch"
+    },
+    "oneinch-data-analytics-lead": {
+      "title": "Data & Analytics Lead",
+      "company": "1inch",
+      "url": "https://to.indeed.com/aagxn7jnf2wv",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "bgbx-ai-engineer": {
+      "title": "AI Engineer",
+      "company": "BGBx",
+      "url": "https://to.indeed.com/aa2xqxjvwvqy",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "tripleten-learning-experience-designer": {
+      "title": "Learning Experience Designer",
+      "company": "TripleTen",
+      "url": "https://to.indeed.com/aa4rkgngtp8b",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "kaufland-senior-ux-researcher": {
+      "title": "(Senior) UX Researcher (all genders)",
+      "company": "Kaufland e-commerce Services GmbH & Co. KG",
+      "url": "https://to.indeed.com/aaz2szxkspz9",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "revolut-head-of-infrastructure-engineering": {
+      "title": "Head of Infrastructure Engineering",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aa4bbfbc4g4g",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "mygames-artist": {
+      "title": "Artist",
+      "company": "My.Games",
+      "url": "https://to.indeed.com/aanpddjxjsbh",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "neolymp-head-of-marketplace": {
+      "title": "Head of Marketplace (m/w/d)",
+      "company": "Neolymp GmbH",
+      "url": "https://to.indeed.com/aa6qt8v9brsw",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "veeva-product-leader-data": {
+      "title": "Product Leader - Data",
+      "company": "Veeva Systems",
+      "url": "https://to.indeed.com/aamclfnk4cjp",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "neolymp-marketplace-manager": {
+      "title": "Marketplace Manager (m/w/d)",
+      "company": "Neolymp GmbH",
+      "url": "https://to.indeed.com/aa9lqvsxnhn4",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "holysoftdrinks-video-social-media-content-creator": {
+      "title": "Video & Social Media Content Creator - UK based (m/f/d)",
+      "company": "HOLY Softdrinks GmbH",
+      "url": "https://to.indeed.com/aavty4zzzqms",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "legartis-account-executive": {
+      "title": "Account Executive (International)",
+      "company": "legartis technology AG",
+      "url": "https://to.indeed.com/aajz9xtywbc2",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "quince-senior-manager-global-procurement": {
+      "title": "Senior Manager, Global Procurement (Materials)",
+      "company": "Quince",
+      "url": "https://to.indeed.com/aakbmkfc9kf9",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "kaufland-senior-devops-engineer": {
+      "title": "Senior DevOps Engineer (all genders) | Data Platform",
+      "company": "Kaufland e-commerce Services GmbH & Co. KG",
+      "url": "https://to.indeed.com/aa27sbzl9srg",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "journaway-senior-fullstack-engineer": {
+      "title": "Senior Fullstack Engineer (m/f/d)",
+      "company": "journaway GmbH",
+      "url": "https://to.indeed.com/aas8qgzv7nvg",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "journaway-senior-backend-engineer": {
+      "title": "Senior Backend Engineer (m/f/d)",
+      "company": "journaway GmbH",
+      "url": "https://to.indeed.com/aa7cw4v4mxt2",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "applimeda-senior-product-designer-uxui-motion": {
+      "title": "Senior Product Designer (m/w/d) - UX/UI & Motion Design \u26a0 German C2 required",
+      "company": "Applimeda GmbH",
+      "url": "https://to.indeed.com/aa79l4r4tvfk",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "lrtautomotive-uxui-designer-product-owner": {
+      "title": "UX/UI-Designer & Product Owner (m/w/d) \u26a0 fluent German required",
+      "company": "LRT Automotive GmbH",
+      "url": "https://to.indeed.com/aatsl2ygckyt",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "wynwoodtech-digital-experience-designers": {
+      "title": "Digital Experience Designers - 100% remote, ASAP, 12+ months (freelance, eDM/email campaign focus)",
+      "company": "wynwood tech LLC",
+      "url": "https://to.indeed.com/aayqtt8jqldp",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "nice-senior-ai-conversation-designer": {
+      "title": "Senior AI Conversation Designer \u26a0 hybrid (2 days office/week), not fully remote",
+      "company": "NiCE",
+      "url": "https://to.indeed.com/aas28g67sxcp",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "lumalife-product-builder-uiux-mobile": {
+      "title": "Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d) \u26a0 German required",
+      "company": "Luma Life",
+      "url": "https://to.indeed.com/aa8w7k4rtvyj",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "studioflaer-ux-researcher": {
+      "title": "UX Researcher (m/w/d) (temp staffing agency contract)",
+      "company": "Studio Flaer",
+      "url": "https://to.indeed.com/aan8xf6cyvkn",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "stunandawe-graphic-designer": {
+      "title": "Graphic Designer (part-time)",
+      "company": "stun and awe UG",
+      "url": "https://to.indeed.com/aajstc4w2pyd",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "osmosis-senior-product-designer": {
+      "title": "Senior Product Designer (no verifiable current open posting; primarily Berkeley-US based, conflicting/stale listings)",
+      "company": "Osmosis",
+      "url": "https://web3.career/senior-product-designer-osmosis/73878",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "delv-senior-product-designer-defi": {
+      "title": "Senior Product Designer (DeFi) \u26a0 strict ET-PT timezone requirement, incompatible with Portugal; listing >2 months old",
+      "company": "DELV",
+      "url": "https://web3.career/senior-product-designer-defi-delv/95434",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "symbiotic-senior-product-designer": {
+      "title": "Senior Product Designer (conflicting NY/Canada/London location data across mirrors; could not verify worldwide/EU eligibility)",
+      "company": "Symbiotic",
+      "url": "https://designproject.io/jobs/senior-product-designer-at-symbiotic-8pbn2f",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "jobgether-ai-product-designer-undisclosed-employer": {
+      "title": "AI Product Designer (employer undisclosed, posted identically across 9 Lever listings)",
+      "company": "Jobgether (recruiting agency, end client undisclosed)",
+      "url": "https://jobs.lever.co/jobgether/ff1dcf8e-67f9-43f0-8250-c5161c5a4b50",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "messari-director-product-design": {
+      "title": "Director, Product Design (listing closed)",
+      "company": "Messari",
+      "url": "https://web3.career/director-product-design-messari/7607",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "alkami-mantl-sr-product-designer": {
+      "title": "Sr Product Designer (MANTL) - Remote US only",
+      "company": "Alkami Technology",
+      "url": "https://designproject.io/jobs/sr-product-designer-mantl-at-alkami-technology-pm5uvw",
+      "first_seen": "2026-10-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "clera-product-designer": {
+      "title": "Product Designer (remote-first, design systems focus - identity/onboarding infra)",
+      "company": "Clera",
+      "url": "https://remotejobs.org/remote-jobs/product-designer-clera",
+      "first_seen": "2026-10-17",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "whitetech-product-designer": {
+      "title": "Product Designer (fintech, hosted on EU Greenhouse board - Europe-open per listing)",
+      "company": "WhiteTech",
+      "url": "https://job-boards.eu.greenhouse.io/whitetech/jobs/4359815101",
+      "first_seen": "2026-10-17",
+      "fit": "medium",
+      "status": "new",
       "portal": "websearch"
     }
   }
