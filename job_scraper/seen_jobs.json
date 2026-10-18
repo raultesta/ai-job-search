@@ -1745,6 +1745,42 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch"
+    },
+    "aave-lead-product-designer": {
+      "title": "Lead Product Designer",
+      "company": "Aave",
+      "url": "https://web3.career/senior-product-designer-aave/11072",
+      "first_seen": "2026-10-18",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "tokenmetrics-head-of-design": {
+      "title": "Head of Design (posted identically in Bucharest and Karachi)",
+      "company": "Token Metrics",
+      "url": "https://web3.career/head-of-design-bucharest-remote-tokenmetrics/66598",
+      "first_seen": "2026-10-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "codekeeper-product-designer-figma": {
+      "title": "Product Designer (Figma)",
+      "company": "Codekeeper",
+      "url": "https://designproject.io/jobs/product-designer-figma-at-codekeeper-dmpe1e",
+      "first_seen": "2026-10-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "jobgether-remote-product-designer-michigan-vibe-coding": {
+      "title": "Remote Product Designer (vibe coding / agentic experiences, employer undisclosed)",
+      "company": "Jobgether (recruiting agency, end client undisclosed)",
+      "url": "https://designproject.io/jobs/remote-product-designer-at-jobgether-4qvtzg",
+      "first_seen": "2026-10-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
