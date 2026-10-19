@@ -1781,6 +1781,60 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "foundations-united-ux-ui-designer": {
+      "title": "UX/UI Designer (dApps, dashboards, dev tools) - 1099 contract, paid in crypto, posted via DMD Solutions recruiter",
+      "company": "Foundations United",
+      "url": "https://cryptojobslist.com/jobs/ux-ui-designer-at-foundations-united",
+      "first_seen": "2026-10-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "kamino-finance-staff-product-designer": {
+      "title": "Staff Product Designer (Solana lending/borrowing, $100k-200k) - listing marked no longer accepting applications",
+      "company": "Kamino Finance",
+      "url": "https://jobs.solana.com/companies/kamino-finance-2/jobs/61686559-staff-product-designer",
+      "first_seen": "2026-10-19",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "noble-head-of-design": {
+      "title": "Head of Design - conflicting location data (one source: Worldwide; Remotive: USA Only) and stale (~1yr+ old postings)",
+      "company": "Noble",
+      "url": "https://web3.career/web3-companies/noble+head-of-design",
+      "first_seen": "2026-10-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "brahma-finance-senior-product-designer-defi": {
+      "title": "Senior Product Designer, DeFi - listing gives Location: India, compensation estimate $30k-$60k",
+      "company": "Brahma Finance",
+      "url": "https://web3.career/senior-product-designer-defi-brahma-finance/14909",
+      "first_seen": "2026-10-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "metallicus-product-designer-web3-contract": {
+      "title": "Product Designer (Web3, contractor) - requires North American timezone overlap",
+      "company": "Metallicus",
+      "url": "https://www.woodyjobs.com/design/28845-product-designer-web3-metallicus",
+      "first_seen": "2026-10-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "alchemy-senior-brand-designer-contract": {
+      "title": "Senior Brand Designer (contract, $72k-80k estimated) - brand design, not product/UX design",
+      "company": "Alchemy",
+      "url": "https://web3.career/i/wETNzQTM",
+      "first_seen": "2026-10-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
