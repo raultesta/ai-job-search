@@ -640,7 +640,7 @@
       "portal": "indeed-mcp"
     },
     "xsolla-senior-product-owner-money-account": {
-      "title": "Senior Product Owner \u2013 Xsolla Money Account",
+      "title": "Senior Product Owner – Xsolla Money Account",
       "company": "Xsolla",
       "url": "https://to.indeed.com/aa66wngy8zsc",
       "first_seen": "2026-10-07",
@@ -1612,7 +1612,7 @@
       "portal": "indeed-mcp"
     },
     "applimeda-senior-product-designer-uxui-motion": {
-      "title": "Senior Product Designer (m/w/d) - UX/UI & Motion Design \u26a0 German C2 required",
+      "title": "Senior Product Designer (m/w/d) - UX/UI & Motion Design ⚠ German C2 required",
       "company": "Applimeda GmbH",
       "url": "https://to.indeed.com/aa79l4r4tvfk",
       "first_seen": "2026-10-17",
@@ -1621,7 +1621,7 @@
       "portal": "indeed-mcp"
     },
     "lrtautomotive-uxui-designer-product-owner": {
-      "title": "UX/UI-Designer & Product Owner (m/w/d) \u26a0 fluent German required",
+      "title": "UX/UI-Designer & Product Owner (m/w/d) ⚠ fluent German required",
       "company": "LRT Automotive GmbH",
       "url": "https://to.indeed.com/aatsl2ygckyt",
       "first_seen": "2026-10-17",
@@ -1639,7 +1639,7 @@
       "portal": "indeed-mcp"
     },
     "nice-senior-ai-conversation-designer": {
-      "title": "Senior AI Conversation Designer \u26a0 hybrid (2 days office/week), not fully remote",
+      "title": "Senior AI Conversation Designer ⚠ hybrid (2 days office/week), not fully remote",
       "company": "NiCE",
       "url": "https://to.indeed.com/aas28g67sxcp",
       "first_seen": "2026-10-17",
@@ -1648,7 +1648,7 @@
       "portal": "indeed-mcp"
     },
     "lumalife-product-builder-uiux-mobile": {
-      "title": "Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d) \u26a0 German required",
+      "title": "Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d) ⚠ German required",
       "company": "Luma Life",
       "url": "https://to.indeed.com/aa8w7k4rtvyj",
       "first_seen": "2026-10-17",
@@ -1684,7 +1684,7 @@
       "portal": "websearch"
     },
     "delv-senior-product-designer-defi": {
-      "title": "Senior Product Designer (DeFi) \u26a0 strict ET-PT timezone requirement, incompatible with Portugal; listing >2 months old",
+      "title": "Senior Product Designer (DeFi) ⚠ strict ET-PT timezone requirement, incompatible with Portugal; listing >2 months old",
       "company": "DELV",
       "url": "https://web3.career/senior-product-designer-defi-delv/95434",
       "first_seen": "2026-10-17",
@@ -1832,6 +1832,123 @@
       "company": "Alchemy",
       "url": "https://web3.career/i/wETNzQTM",
       "first_seen": "2026-10-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "onbeam-design-director": {
+      "title": "Design Director (⚠ 50/50 product+brand, EU-time ±2h CET)",
+      "company": "Beam",
+      "url": "https://web3.career/i/zEDM0ATM",
+      "first_seen": "2026-10-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "freightsimple-ui-design-engineer": {
+      "title": "UI Design Engineer (⚠ expects hands-on production code ownership, not just AI-assisted prototyping)",
+      "company": "FreightSimple",
+      "url": "https://www.getonbrd.com/jobs/ui-design-engineer-freightsimple-remote",
+      "first_seen": "2026-10-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "bitpanda-director-ux-design": {
+      "title": "Director, User Experience Design (⚠ conflicting location: remote per one source, hybrid/onsite Vienna or Barcelona per others — unverified, WebFetch/ATS check blocked this run)",
+      "company": "Bitpanda",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4610115101",
+      "first_seen": "2026-10-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "medvidi-health-staff-product-designer-ai-track": {
+      "title": "Staff Product Designer (AI Track) — ⚠ Language Gate: requires fluent Russian (undeclared language), overrides otherwise excellent AI-native design fit",
+      "company": "MEDvidi Health",
+      "url": "https://to.indeed.com/aanq2tyfjlpl",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "zora-senior-product-designer": {
+      "title": "Senior Product Designer (location/open-status unconfirmed — WebFetch blocked this run)",
+      "company": "ZORA",
+      "url": "https://web3.career/senior-product-designer-zora/52056",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "aptoslabs-product-designer-consumer": {
+      "title": "Web3 Product Designer (Consumer)",
+      "company": "Aptos Labs",
+      "url": "https://web3.career/product-designer-consumer-aptoslabs/106690",
+      "first_seen": "2026-10-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "sevenseas-capital-design-lead": {
+      "title": "Design Lead",
+      "company": "Sevenseas Capital (via Veda Tech Labs posting)",
+      "url": "https://web3.career/design-lead-sevenseas-capital/100701",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ambush-head-of-product-design": {
+      "title": "Head of Product Design (listing no longer accepting applications)",
+      "company": "Ambush",
+      "url": "https://cryptocurrencyjobs.co/design/ambush-head-of-product-design-remote",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "iov-labs-head-of-design": {
+      "title": "Head of Design (listing closed/stale)",
+      "company": "IOV Labs",
+      "url": "https://web3.career/design-jobs?page=102",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "ascendex-ux-architect": {
+      "title": "Web3 UX Architect (listing closed)",
+      "company": "AscendEX",
+      "url": "https://web3.career/ux-architect-ascendex/29925",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "metacommerce-product-designer": {
+      "title": "Product Designer (US/Canada only — location excluded; listing closed)",
+      "company": "Metacommerce",
+      "url": "https://web3.career/product-designer+remote-jobs?page=5",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "metamask-associate-design-director-events": {
+      "title": "Associate Design Director, Events (US-only — location excluded)",
+      "company": "MetaMask (Consensys)",
+      "url": "https://web3.career/associate-design-director-events-metamask/32765",
+      "first_seen": "2026-10-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "robinhood-crypto-design-leadership": {
+      "title": "Senior Crypto Design Leadership role (limited to specific US geographies — location excluded)",
+      "company": "Robinhood",
+      "url": "https://web3.career/design-jobs?page=19",
+      "first_seen": "2026-10-20",
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
