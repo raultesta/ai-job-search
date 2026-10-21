@@ -1952,6 +1952,78 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "remote-com-head-of-design-emea": {
+      "title": "Head of Design (Remote-EMEA)",
+      "company": "Remote.com",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7445660003",
+      "first_seen": "2026-10-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "r3-senior-defi-product-lead-rwa-solana": {
+      "title": "Senior DeFi Product Lead (RWA/Solana — tagged London + Remote; remote eligibility unverified this run, ATS fetch blocked by network policy)",
+      "company": "R3",
+      "url": "https://web3.career/senior-defi-product-lead-r3/105683",
+      "first_seen": "2026-10-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ascending-ai-product-designer-amsterdam": {
+      "title": "Product Designer (AI-native — Amsterdam-based, remote/hybrid option per own careers page; fully-remote eligibility unverified this run)",
+      "company": "Ascending AI",
+      "url": "https://ascendingai.recruitee.com/o/product-designer",
+      "first_seen": "2026-10-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "lattice-partners-product-designer-ai-us-tz-only": {
+      "title": "Product Designer, AI (requires US timezone PT/MT/CT/ET — excluded)",
+      "company": "Lattice Partners",
+      "url": "https://designproject.io/jobs/product-designer-ai-at-lattice-partners-lg7vcq",
+      "first_seen": "2026-10-21",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "magic-eden-senior-product-designer-apac": {
+      "title": "Senior Product Designer (APAC region)",
+      "company": "Magic Eden",
+      "url": "https://web3.career/i/3gTOyATM",
+      "first_seen": "2026-10-21",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "apply-digital-agentic-product-design-lead-canada": {
+      "title": "Agentic Product Design Lead (Canada preference)",
+      "company": "Apply Digital",
+      "url": "https://arc.dev/remote-jobs/j/apply-agentic-product-design-lead-pb8zwfolkr",
+      "first_seen": "2026-10-21",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "optimism-senior-product-designer-closed-2026-10-21": {
+      "title": "Senior Product Designer (listing closed)",
+      "company": "Optimism",
+      "url": "https://web3.career/senior-product-designer-optimism/22949",
+      "first_seen": "2026-10-21",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "immunefi-design-lead-closed": {
+      "title": "Design Lead (listing closed)",
+      "company": "Immunefi",
+      "url": "https://web3.career/design-lead-immunefi/65279",
+      "first_seen": "2026-10-21",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
