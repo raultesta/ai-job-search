@@ -2024,6 +2024,105 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "laminarprojects-ai-engineer-4day": {
+      "title": "AI Engineer - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "url": "https://to.indeed.com/aanqlc8r2wxc",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "laminarprojects-product-manager-4day": {
+      "title": "Product Manager - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "url": "https://to.indeed.com/aawhnyhrkxht",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "moniepoint-head-of-engineering-rewards": {
+      "title": "Head of Engineering, Rewards",
+      "company": "Moniepoint",
+      "url": "https://to.indeed.com/aast9yqc8v28",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "moniepoint-head-of-engineering-supplychain": {
+      "title": "Head of Engineering, Supply Chain",
+      "company": "Moniepoint",
+      "url": "https://to.indeed.com/aa47jx26wjyq",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "spdtechnology-senior-qa-automation-engineer": {
+      "title": "Senior QA Automation Engineer",
+      "company": "SPD Technology",
+      "url": "https://to.indeed.com/aa4g4dxltlfq",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "tripleten-lead-motion-graphic-designer": {
+      "title": "Lead Motion & Graphic Designer",
+      "company": "TripleTen",
+      "url": "https://to.indeed.com/aa488dq24mqz",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "recursive-head-of-design-closed": {
+      "title": "Head of Design (listing closed)",
+      "company": "Recursive",
+      "url": "https://web3.career/head-of-design-recursive/42619",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "pancakeswap-product-designer-uxui-closed": {
+      "title": "Product Designer UX/UI (listing closed)",
+      "company": "PancakeSwap",
+      "url": "https://dynamitejobs.com/company/pancakeswap/remote-job/product-designer-ux-i",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "minke-product-designer-unavailable": {
+      "title": "Product Designer (listing no longer available)",
+      "company": "Minke",
+      "url": "https://cryptocurrencyjobs.co/design/minke-product-designer",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "d3-senior-product-designer-domain-layer-stale": {
+      "title": "Senior Product Designer, Domain Layer/DOMA protocol (posted ~Sep 22 2026, >14-day window; LA-based, remote OK)",
+      "company": "D3",
+      "url": "https://designproject.io/jobs/product-designer-at-d3-gyetv1",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "designstudioeu-product-design-director-teamtailor-unverified": {
+      "title": "Product Design Director (design studio, EU) - WebFetch/DNS blocked this run, remote eligibility and employer identity unverified",
+      "company": "Unknown (teamtailor listing via hireyio)",
+      "url": "https://hireyio.teamtailor.com/jobs/3738867-product-design-director-design-studio-eu",
+      "first_seen": "2026-10-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
