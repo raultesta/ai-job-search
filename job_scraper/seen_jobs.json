@@ -2123,6 +2123,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "jobgether-undisclosed-client-ai-product-designer-figma-make-claude-design-7-countries": {
+      "title": "AI Product Designer (Figma Make / Claude Design workflow) - posted identically across 7+ country listings via Jobgether, employer undisclosed",
+      "company": "Unknown (Jobgether-mediated listing, client identity undisclosed)",
+      "url": "https://jobs.lever.co/jobgether/856fb346-633c-4222-8bdc-012017532a3c",
+      "first_seen": "2026-10-23",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "medvidihealth-staff-product-designer-ai-track": {
+      "title": "Staff Product Designer (AI Track)",
+      "company": "MEDvidi Health",
+      "url": "https://to.indeed.com/aanjh9c9cxnt",
+      "first_seen": "2026-10-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "plumenetwork-product-designer-rwa-us-based-remote-aug2026": {
+      "title": "Product Designer (RWA) - US-based remote",
+      "company": "Plume Network",
+      "url": "https://designproject.io/jobs/product-designer-at-plume-network-3rfs6j",
+      "first_seen": "2026-10-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "step-lead-product-designer-banking-us-remote-only": {
+      "title": "Lead Product Designer, Banking (Remote - US only)",
+      "company": "Step",
+      "url": "https://designproject.io/jobs/lead-product-designer-banking-at-step-jd5vd2",
+      "first_seen": "2026-10-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
