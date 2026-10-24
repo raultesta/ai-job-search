@@ -2159,6 +2159,69 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "https://web3.career/product-design-textileio/38058": {
+      "title": "Product Design Lead (AI-powered tools, Portal product)",
+      "company": "Textile",
+      "url": "https://web3.career/product-design-textileio/38058",
+      "first_seen": "2026-10-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://boards.greenhouse.io/globalizationpartners/jobs/6339883003": {
+      "title": "Senior UX/UI Designer – Mobile (AI Native App)",
+      "company": "Globalization Partners",
+      "url": "https://boards.greenhouse.io/globalizationpartners/jobs/6339883003",
+      "first_seen": "2026-10-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://jobs.hygraph.com/o/brand-design-lead-fmd-remote-in-emea": {
+      "title": "Brand Design Lead (f/m/d) - Remote EMEA",
+      "company": "Hygraph",
+      "url": "https://jobs.hygraph.com/o/brand-design-lead-fmd-remote-in-emea",
+      "first_seen": "2026-10-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/head-product-design/3418913": {
+      "title": "Head of Product Design",
+      "company": "Feeld",
+      "url": "https://builtin.com/job/head-product-design/3418913",
+      "first_seen": "2026-10-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "https://builtinlondon.uk/job/ui-ux-designer/6471690": {
+      "title": "UI/UX Designer",
+      "company": "Sentient Foundation",
+      "url": "https://builtinlondon.uk/job/ui-ux-designer/6471690",
+      "first_seen": "2026-10-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "https://jobs.accel.com/companies/dropbox/jobs/72227893-staff-product-designer-mobile-design-systems": {
+      "title": "Staff Product Designer, Mobile Design Systems",
+      "company": "Dropbox",
+      "url": "https://jobs.accel.com/companies/dropbox/jobs/72227893-staff-product-designer-mobile-design-systems",
+      "first_seen": "2026-10-24",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "https://job-boards.greenhouse.io/cardata/jobs/4321205009": {
+      "title": "Senior Product Designer / Senior UX Designer",
+      "company": "Cardata",
+      "url": "https://job-boards.greenhouse.io/cardata/jobs/4321205009",
+      "first_seen": "2026-10-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
     }
   }
 }
