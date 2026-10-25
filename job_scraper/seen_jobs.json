@@ -2222,6 +2222,78 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch-fallback"
+    },
+    "arrakisfinance-product-designer-web3-stale": {
+      "title": "Product Designer (Web3) — posted 2026-02-04, outside 14-day window",
+      "company": "Arrakis Finance",
+      "url": "https://designproject.io/jobs/jobs/product-designer-web3-at-arrakis-finance-c6p7df",
+      "first_seen": "2026-10-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "figma-product-designer-cms-us-remote-only": {
+      "title": "Product Designer, CMS (US-remote only, $169k-$303k)",
+      "company": "Figma",
+      "url": "https://uiuxjobsboard.com/job/1177825-remote-united-states-product-designer",
+      "first_seen": "2026-10-25",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "dave-lead-product-designer-bnpl-flex-us-stale": {
+      "title": "Lead Product Designer, BNPL (Dave Flex) — US-remote only, posted May 2026 (stale)",
+      "company": "Dave",
+      "url": "https://designproject.io/jobs/lead-product-designer-bnpl-dave-flex-at-dave-qe51ag",
+      "first_seen": "2026-10-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "jobgether-product-designer-ai-innovation-undisclosed": {
+      "title": "Product Designer (AI & Innovation focus, employer undisclosed)",
+      "company": "Jobgether (recruiting agency, end client undisclosed)",
+      "url": "https://jobs.lever.co/jobgether/1d706de5-e9de-4387-84c9-dd589a5c9a35",
+      "first_seen": "2026-10-25",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ixdf-product-designer-especialista-remote": {
+      "title": "Product Designer - Especialista (AI/ML & conversational product focus, 5+ yrs)",
+      "company": "Unknown (ixdf.org listing)",
+      "url": "https://ixdf.org/jobs/product-designer-especialista-remote",
+      "first_seen": "2026-10-25",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "jobgether-ai-product-designer-romania-canada-restricted": {
+      "title": "AI Product Designer (posted identically for Romania/Canada eligibility — 2 listings)",
+      "company": "Jobgether (recruiting agency, end client undisclosed)",
+      "url": "https://jobs.lever.co/jobgether/2b9016d3-a799-4f59-b54e-5233178bf00e",
+      "first_seen": "2026-10-25",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "jobgether-ai-product-designer-romania-canada-restricted-2": {
+      "title": "AI Product Designer (duplicate of Romania/Canada listing, consolidated)",
+      "company": "Jobgether (recruiting agency, end client undisclosed)",
+      "url": "https://jobs.lever.co/jobgether/448d7239-b385-4e13-8818-a535ccc91e03",
+      "first_seen": "2026-10-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "epamsystems-senior-ai-engineer": {
+      "title": "Senior AI Engineer (engineering role, not design)",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aa2lctsqdg6j",
+      "first_seen": "2026-10-25",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
     }
   }
 }
