@@ -2294,6 +2294,15 @@
       "fit": "low",
       "status": "new",
       "portal": "indeed-mcp"
+    },
+    "klartechnologies-senior-flutter-engineer-remote-eu-only": {
+      "title": "Senior Flutter Engineer (Remote from EU only)",
+      "company": "Klar Technologies SA de CV SFP",
+      "url": "https://to.indeed.com/aavjfq8fgkqb",
+      "first_seen": "2026-10-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
