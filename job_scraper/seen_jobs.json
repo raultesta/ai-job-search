@@ -2303,6 +2303,87 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "https://to.indeed.com/aadzvyqp8hgy": {
+      "title": "Senior Product Designer – Mobile-First Consumer Products (requires 3-4 shipped App Store apps - hard gap)",
+      "company": "iHunt",
+      "url": "https://to.indeed.com/aadzvyqp8hgy",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "https://to.indeed.com/aalxnpwg7jsp": {
+      "title": "Agentic UX Designer (part-time contract, $24-30k/yr - severe pay/employment-type mismatch)",
+      "company": "Agentplace",
+      "url": "https://to.indeed.com/aalxnpwg7jsp",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "https://to.indeed.com/aakr9ycd4zkk": {
+      "title": "UX Designer & Strategist (explicitly US-only remote, contract - location excluded)",
+      "company": "Holistic Partners",
+      "url": "https://to.indeed.com/aakr9ycd4zkk",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "https://to.indeed.com/aal9tf9tdxgk": {
+      "title": "Freelance Senior UX/Service Designer (UK public-sector tender, requires UK public-sector reference projects)",
+      "company": "HighRegard",
+      "url": "https://to.indeed.com/aal9tf9tdxgk",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "https://web3.career/senior-product-designer-fireblocks/80771": {
+      "title": "Senior Product Designer (actual Greenhouse posting is Tel Aviv/hybrid, not remote - aggregator mistagged)",
+      "company": "Fireblocks",
+      "url": "https://web3.career/senior-product-designer-fireblocks/80771",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://designproject.io/jobs/product-designer-predictions-og-at-crypto-com-993w06": {
+      "title": "Senior Product Designer, Predictions (hybrid SF/California, posted Apr-Aug 2026 - stale & location-excluded)",
+      "company": "Crypto.com",
+      "url": "https://designproject.io/jobs/product-designer-predictions-og-at-crypto-com-993w06",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://designproject.io/jobs/product-designer-at-hupo-01s4bh": {
+      "title": "Product Designer, agentic design system (posted ~2026-08-10, outside 14-day window; Asia-timezone preferred)",
+      "company": "Hupo",
+      "url": "https://designproject.io/jobs/product-designer-at-hupo-01s4bh",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://www.marketingmonk.so/jobboard/jobs/design-director-uiux-and-brand-at-darkroom-4rjx75": {
+      "title": "Design Director, UI/UX & Brand (aggregator reposts dated Oct/Dec 2025 - stale, conflicting location details, no canonical listing found)",
+      "company": "Darkroom",
+      "url": "https://www.marketingmonk.so/jobboard/jobs/design-director-uiux-and-brand-at-darkroom-4rjx75",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://toyfight.co/careers/design-director": {
+      "title": "Design Director (brand/digital/motion/product leadership at creative agency) - date unknown, remote-country eligibility unverifiable this run (WebFetch blocked)",
+      "company": "Toyfight",
+      "url": "https://toyfight.co/careers/design-director",
+      "first_seen": "2026-10-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
     }
   }
 }
