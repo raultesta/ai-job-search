@@ -2384,6 +2384,33 @@
       "fit": "low",
       "status": "new",
       "portal": "websearch"
+    },
+    "https://to.indeed.com/aat2s9lyht2y": {
+      "title": "Senior Product Manager - Design System (M/F) — title is misleading: role is an 8+yr software/platform engineering position (Python/TypeScript/Kotlin/Go/Rust, DevOps, IDPs), not a design role",
+      "company": "Ankix",
+      "url": "https://to.indeed.com/aat2s9lyht2y",
+      "first_seen": "2026-10-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "https://job-boards.greenhouse.io/gr8tech/jobs/4740513101": {
+      "title": "Head of Design (listing shows as closed on Dynamite Jobs aggregator; skill fit would otherwise be medium — B2B iGaming, 7+ yrs product design, 3+ yrs leading design teams, remote-first \"Anywhere\")",
+      "company": "GR8 Tech",
+      "url": "https://job-boards.greenhouse.io/gr8tech/jobs/4740513101",
+      "first_seen": "2026-10-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://jobs.techstars.com/companies/rasa-com/jobs/62297137-director-of-design-product": {
+      "title": "Director of Design (Product) — Techstars listing says no longer accepting applications (closed); remote UK/Germany/Serbia, would otherwise be strong fit (8+ yrs, 3+ yrs leading teams, B2B/dev-tools)",
+      "company": "Rasa",
+      "url": "https://jobs.techstars.com/companies/rasa-com/jobs/62297137-director-of-design-product",
+      "first_seen": "2026-10-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
