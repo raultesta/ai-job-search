@@ -2431,6 +2431,24 @@
       "status": "skipped",
       "portal": "websearch",
       "note": "~$58k-60k per aggregator (well below €100k baseline), location listed as worldwide/Singapore. ⚠ Unverified this run - WebFetch blocked (see Jupiter note). Comp likely excludes this regardless of location once verified."
+    },
+    "storyblok-senior-technical-product-manager-ii-europe": {
+      "title": "Senior Technical Product Manager II - Europe (engineering/PM role, not design)",
+      "company": "Storyblok",
+      "url": "https://to.indeed.com/aaw7grkd9dyv",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "creatio-ai-consultant": {
+      "title": "AI Consultant (consulting role, not design)",
+      "company": "Creatio",
+      "url": "https://to.indeed.com/aa4df4tshpxw",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
