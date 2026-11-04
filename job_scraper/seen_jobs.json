@@ -2449,6 +2449,197 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "etherfi-senior-product-designer-builtinsf": {
+      "title": "Senior Product Designer",
+      "company": "ether.fi",
+      "url": "https://www.builtinsf.com/job/senior-product-designer/8796996",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Listed remote in Cayman per aggregator; distinct posting from the already-tracked ether.fi Lead Product Designer (startup.jobs) entry, which was rated low fit. Remote-eligibility and current open status NOT verified this run - this cloud session's network policy blocks WebFetch/CLI access to job-board and ATS domains (CONNECT 403 / DNS resolution failures), so the mandatory ATS verification step could not run."
+    },
+    "talentweb3-lead-product-designer-remote": {
+      "title": "Lead Product Designer (Remote)",
+      "company": "Unknown (TalentWeb3 recruiting-agency listing, end client undisclosed)",
+      "url": "https://www.careers-page.com/talentweb3/job/QV5VX798",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Agency-mediated listing with no end-client disclosed in the snippet, similar to the Jobgether-pattern entries already tracked. Unverified this run - WebFetch blocked by network policy."
+    },
+    "jobot-web3-ux-designer": {
+      "title": "Web3 UX Designer",
+      "company": "Unknown (Jobot staffing-agency listing)",
+      "url": "https://jobot.com/details/web3-ux-designer/dbe71a8000",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Jobot is a US staffing agency; end client and remote-worldwide eligibility unconfirmed. Unverified this run - WebFetch blocked by network policy."
+    },
+    "ondofinance-senior-product-designer-lever": {
+      "title": "Senior Product Designer",
+      "company": "Ondo Finance",
+      "url": "https://jobs.lever.co/ondofinance/4646619f-eb9e-403d-bf7a-031c94cc86bf",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Distinct Lever-hosted listing from the already-tracked Ondo Finance Greenhouse posting (Securities & Commodities, rated low). General DeFi/RWA product design scope is a strong domain match, but remote-eligibility and whether this is a genuinely separate open role (vs. a stale mirror) could NOT be verified this run - WebFetch to jobs.lever.co failed with DNS resolution error (network policy blocks this host). Re-verify before presenting as a confirmed match."
+    },
+    "mediabistro-senior-ux-product-designer-ai-projects": {
+      "title": "Senior UX/Product Designer, AI Projects (names Claude Code, Lovable, bolt.new, Replit as build tools)",
+      "company": "Unknown (mediabistro.com listing, employer not resolved this run)",
+      "url": "https://www.mediabistro.com/jobs/1781385891-senior-ux-product-designer-ai-projects",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Strong AI-native tool-stack match (explicitly names Claude Code and Lovable, both in the candidate's current workflow), but the employer name and remote-worldwide eligibility could not be confirmed - WebFetch to mediabistro.com failed with DNS resolution error (network policy blocks this host). Re-verify company identity and location before presenting as a confirmed match."
+    },
+    "allturtles-head-of-design": {
+      "title": "Head of Design",
+      "company": "All Turtles",
+      "url": "https://nodesk.co/remote-jobs/all-turtles-head-of-design/",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Design-leadership track at a generalist AI product studio - plausible fit for the Head of Design target, but remote-worldwide eligibility, comp, and current open status were not verified this run (WebFetch blocked by network policy)."
+    },
+    "jackandjill-agentic-product-designer": {
+      "title": "Agentic Product Designer",
+      "company": "Jack & Jill",
+      "url": "https://www.gravityer.com/jobs/agentic-product-designer-jack-and-jill",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Agentic/AI-native design focus matches the candidate's positioning, but company details, comp, and remote-worldwide eligibility are too thin to confirm - WebFetch blocked by network policy this run."
+    },
+    "praxent-product-designer-fintech": {
+      "title": "Product Designer - UX/UI for FinTech (Remote)",
+      "company": "Praxent",
+      "url": "https://talents.vaia.com/companies/praxent/product-designer-ux-ui-for-fintech-remote-94425783/",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Fintech domain match, ~$80k-100k per aggregator (below the EUR100k baseline but not disqualifying alone). Remote-worldwide eligibility and current open status unverified this run - WebFetch blocked by network policy."
+    },
+    "xadtechnologies-uiux-designer-jobgether": {
+      "title": "UI/UX Designer (Remote)",
+      "company": "XAD Technologies (via Jobgether, end client disclosure unclear)",
+      "url": "https://jobgether.com/offer/6a3e54cb2da8cde35c74eafb-ui-ux-designer---remote",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Jobgether-mediated listing, same low-value pattern as other Jobgether entries already tracked. Unverified this run - WebFetch blocked by network policy."
+    },
+    "chainlinklabs-senior-product-designer-services-us": {
+      "title": "Senior Product Designer, Services (United States / Remote per listing - US-specific)",
+      "company": "Chainlink Labs",
+      "url": "https://web3.career/senior-product-designer-chainlink-labs/21388",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "Location tag reads US-specific, not worldwide-remote - likely excluded on the location filter. Could not cross-check against the employer's own ATS to confirm - WebFetch blocked by network policy this run."
+    },
+    "ixdf-senior-product-designer-uk": {
+      "title": "Senior Product Designer (uses Cursor, Claude, v0 - UK remote)",
+      "company": "Unknown (ixdf.org listing)",
+      "url": "https://ixdf.org/jobs/senior-product-designer-remote-united-kingdom-q1APzs",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "AI-native tool stack matches the candidate's workflow, but listed as UK-remote specifically (not confirmed worldwide) and employer name is not resolved from the aggregator snippet. Unverified this run - WebFetch blocked by network policy."
+    },
+    "airslate-principal-product-manager-signnow": {
+      "title": "Principal Product Manager - SignNow",
+      "company": "airSlate",
+      "url": "https://to.indeed.com/aa9hkldlxqt7",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "idera-product-marketing-manager-lansa": {
+      "title": "Product Marketing Manager - Lansa",
+      "company": "Idera, Inc.",
+      "url": "https://to.indeed.com/aaszk7cpdy2v",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "auditdata-system-architect": {
+      "title": "System Architect",
+      "company": "Auditdata",
+      "url": "https://to.indeed.com/aad89ngd9j8t",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "datacamp-engineering-manager-learn-product": {
+      "title": "Engineering Manager (Learn Product)",
+      "company": "DataCamp",
+      "url": "https://to.indeed.com/aatnbffl7hhq",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "scrambly-senior-delivery-manager": {
+      "title": "Senior Delivery Manager",
+      "company": "Scrambly",
+      "url": "https://to.indeed.com/aasmd9qt6fzp",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "minehub-senior-software-engineer-ai-initiatives": {
+      "title": "Senior Software Engineer, AI Initiatives",
+      "company": "MineHub",
+      "url": "https://to.indeed.com/aajvpf98xr8f",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "outsystems-agentic-tech-lead": {
+      "title": "Agentic Tech Lead",
+      "company": "OutSystems",
+      "url": "https://to.indeed.com/aatn4cfgfxbc",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "penhalonga-learning-development-supervisor": {
+      "title": "Learning and Development Supervisor",
+      "company": "Penha Longa Resort Ritz Carlton Hotel",
+      "url": "https://to.indeed.com/aa7qkspm7bnw",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "laminarprojects-paid-media-performance-marketing-manager": {
+      "title": "Paid Media & Performance Marketing Manager (B2B) - 4 Day Week + Remote",
+      "company": "Laminar Projects",
+      "url": "https://to.indeed.com/aay9x6svzwmp",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
