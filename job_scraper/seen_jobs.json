@@ -2640,6 +2640,24 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "blackwing-fi-senior-product-designer-stale": {
+      "title": "Senior Product Designer (DeFi/Web3 — posting appears stale, last confirmed seen ~June 2026, status unconfirmed; one aggregator marks it closed)",
+      "company": "Blackwing.fi",
+      "url": "https://web3.career/senior-product-designer-blackwing-fi/63959",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "jobgether-product-designer-lead-web3-wallet-undisclosed": {
+      "title": "Product Designer Lead - Web3 Wallet (end employer/posting date undetermined — WebFetch blocked this run, could not verify via Jobgether or an ATS)",
+      "company": "Jobgether (recruiting agency, end client undisclosed)",
+      "url": "https://dynamic.jobgether.com/offer/66d619a11eb7f176a2a1d9c4-product-designer-lead---web3-wallet",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
     }
   }
 }
