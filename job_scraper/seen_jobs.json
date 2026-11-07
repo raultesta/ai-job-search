@@ -2658,6 +2658,150 @@
       "fit": "low",
       "status": "new",
       "portal": "websearch"
+    },
+    "coinshift-senior-product-designer-web3": {
+      "title": "Senior Product Designer (Web3/DeFi — location/open-status unconfirmed, WebFetch/ATS check blocked by network policy this run)",
+      "company": "Coinshift",
+      "url": "https://web3.career/senior-product-designer-coinshift/47344",
+      "first_seen": "2026-11-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "centrifuge-product-designer-uiux-rwa": {
+      "title": "Product Designer, UI/UX (RWA tokenization protocol — location/open-status unconfirmed, WebFetch/ATS check blocked by network policy this run)",
+      "company": "Centrifuge",
+      "url": "https://web3.career/product-designer-ui-ux-centrifuge/37223",
+      "first_seen": "2026-11-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "rootstocklabs-senior-product-designer-europe-remote": {
+      "title": "Senior Product Designer (Bitcoin DeFi/RSK — remote from Europe or South America per listing; ATS check blocked by network policy this run)",
+      "company": "Rootstock Labs",
+      "url": "https://www.remoterocketship.com/company/rootstocklabs/jobs/senior-product-designer-europe-remote",
+      "first_seen": "2026-11-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "ethereumfoundation-product-designer-97637": {
+      "title": "Product Designer (protocol team — distinct listing from previously-tracked UX Lead role; location/open-status unconfirmed, ATS check blocked by network policy this run)",
+      "company": "Ethereum Foundation",
+      "url": "https://web3.career/product-designer-ethereum-foundation/97637",
+      "first_seen": "2026-11-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "mercuryo-product-design-lead-jobgether": {
+      "title": "Product Design Lead (Mercuryo, crypto payments — Jobgether-mediated listing, end-client/location thinly verified per house pattern; ATS check blocked by network policy this run)",
+      "company": "Mercuryo (via Jobgether)",
+      "url": "https://jobgether.com/offer/69b34cb924d79271ee052c31-product-design-lead",
+      "first_seen": "2026-11-07",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "gr8tech-head-of-design": {
+      "title": "Head of Design (igaming B2B SaaS — Greenhouse lists location as \"Anywhere\"; posting date/current-open status unconfirmed, ATS check blocked by network policy this run)",
+      "company": "GR8 Tech",
+      "url": "https://job-boards.greenhouse.io/gr8tech/jobs/4740513101",
+      "first_seen": "2026-11-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "threecolts-design-director": {
+      "title": "Design Director (e-commerce SaaS for Amazon/Walmart sellers — remote EU/UK/US per third-party listings; ATS check blocked by network policy this run)",
+      "company": "Threecolts",
+      "url": "https://jobs.eu.lever.co/threecolts/0d5c5e88-a23c-4ce0-92a5-bf750800c920",
+      "first_seen": "2026-11-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "textileio-product-design-lead": {
+      "title": "Product Design Lead (AI-powered tools, fully remote team — location/open-status unconfirmed, ATS check blocked by network policy this run)",
+      "company": "Textile.io",
+      "url": "https://web3.career/i/=kTM4UTO",
+      "first_seen": "2026-11-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "everai-senior-product-designer": {
+      "title": "Senior Product Designer (AI company, domain specifics thin from aggregator snippet — location/open-status unconfirmed, ATS check blocked by network policy this run)",
+      "company": "Everai",
+      "url": "https://jobverse.io/jobs/19286647/senior-product-designer-at-everai-remote",
+      "first_seen": "2026-11-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "basisai-product-designer": {
+      "title": "Product Designer (AI startup, domain specifics thin from aggregator snippet — location/open-status unconfirmed, ATS check blocked by network policy this run)",
+      "company": "Basis",
+      "url": "https://designproject.io/jobs/product-designer-at-basis-ai-9m7oip",
+      "first_seen": "2026-11-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "constructor-product-designer-ai-agent-tools-spain": {
+      "title": "Product Designer, AI Agent Tools (listed as Spain remote — may be Spain-residency restricted; ATS check blocked by network policy this run)",
+      "company": "Constructor",
+      "url": "https://designproject.io/jobs/jobs/product-designer-ai-agent-tools-remote-at-constructor-2lsedr",
+      "first_seen": "2026-11-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "kiln-product-designer-staking": {
+      "title": "Product Designer (liquid-staking infrastructure, direct overlap with candidate's RBL staking work — Paris or full remote Western EU per listing; ATS check blocked by network policy this run)",
+      "company": "Kiln",
+      "url": "https://career.com/be-job/kiln/product-designer/j202504161402160949474",
+      "first_seen": "2026-11-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "rasa-director-of-design-product-closed": {
+      "title": "Director of Design, Product — confirmed closed (\"no longer accepting applications\" per Techstars listing)",
+      "company": "Rasa",
+      "url": "https://jobs.techstars.com/companies/rasa-com/jobs/62297137-director-of-design-product",
+      "first_seen": "2026-11-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "moonpay-design-director-stale": {
+      "title": "Design Director — no confirmed current opening found; only a ~2-year-old listing on aggregators",
+      "company": "MoonPay",
+      "url": "https://beincrypto.com/jobs/p/design-director-moonpay",
+      "first_seen": "2026-11-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "xapobank-chief-customer-officer": {
+      "title": "Chief Customer Officer (non-design executive role)",
+      "company": "Xapo Bank",
+      "url": "https://to.indeed.com/aa2gfz4prgrg",
+      "first_seen": "2026-11-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "sqldbm-senior-software-ai-engineer": {
+      "title": "Senior Software AI Engineer (non-design engineering role)",
+      "company": "SqlDBM",
+      "url": "https://to.indeed.com/aaq62r9w72mq",
+      "first_seen": "2026-11-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
