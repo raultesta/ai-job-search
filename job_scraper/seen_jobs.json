@@ -2802,6 +2802,51 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "synthesia-product-designer-ai-native-products": {
+      "title": "Product Designer, AI-Native Products (Senior/Staff-Level) — location ambiguous: aggregators disagree between remote-EU and hybrid-London; ATS check blocked by network policy this run",
+      "company": "Synthesia",
+      "url": "https://jobs.accel.com/companies/synthesia/jobs/81482405-product-designer-ai-native-products-senior-staff-level",
+      "first_seen": "2026-11-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "stokr-head-of-design-fintech-digital-assets": {
+      "title": "Head of Design – FinTech & Digital Assets (aka \"Product Design Lead\" on some boards; remote or Luxembourg-based per listings — ATS check blocked by network policy this run)",
+      "company": "STOKR",
+      "url": "https://web3.career/product-design-lead-stokr/151071",
+      "first_seen": "2026-11-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "coinrule-ux-design-lead": {
+      "title": "UX Design Lead — US citizen/visa-only per multiple listings (YC/WorkAtAStartup, Zerogtalent) — location excluded",
+      "company": "Coinrule",
+      "url": "https://web3.career/ux-design-lead-coinrule/38200",
+      "first_seen": "2026-11-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "robinhood-senior-product-designer-defi-hybrid": {
+      "title": "Senior Product Designer, DeFi — hybrid 3 days/week in Menlo Park or New York — location excluded (distinct req from existing robinhood-crypto-design-leadership entry)",
+      "company": "Robinhood",
+      "url": "https://designproject.io/jobs/senior-product-designer-defi-at-robinhood-zzcw7n",
+      "first_seen": "2026-11-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "10up-design-director-europe": {
+      "title": "Design Director, Europe — posting closed/no longer available",
+      "company": "10up",
+      "url": "https://nodesk.co/remote-jobs/10up-design-director-europe/",
+      "first_seen": "2026-11-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
