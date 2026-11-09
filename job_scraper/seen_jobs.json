@@ -2847,6 +2847,15 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "unicrew-senior-product-designer-uk-banking": {
+      "title": "Senior Product Designer (UK Banking) — B2B contract via Unicrew recruiting agency, end-client UK bank undisclosed; must-have UK bank/fintech experience not met",
+      "company": "Unicrew",
+      "url": "https://to.indeed.com/aaf264yhlcm9",
+      "first_seen": "2026-11-09",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
     }
   }
 }
