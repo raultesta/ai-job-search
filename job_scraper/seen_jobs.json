@@ -2856,6 +2856,24 @@
       "fit": "low",
       "status": "new",
       "portal": "indeed-mcp"
+    },
+    "lovieco-product-designer-ai-native": {
+      "title": "Product Designer (AI-Native) — first design hire, agent-interaction/compliance-dashboard patterns; remote-first per aggregator, exact country eligibility and ATS link unverified — network policy blocked WebFetch/arc.dev this run",
+      "company": "Lovie",
+      "url": "https://arc.dev/remote-jobs/j/lovie-co-product-designer-ai-native-p35dv1mrff",
+      "first_seen": "2026-11-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "fantasy-head-of-design": {
+      "title": "Head of Design — conflicting location signals (Remotive lists Worldwide, BuiltIn listings say Hiring Remotely in USA); not clearly Web3/DeFi-aligned despite initial query match — ATS check (Lever) blocked by network policy this run",
+      "company": "Fantasy",
+      "url": "https://jobs.lever.co/fantasy/5a8c11b8-5044-43c8-8027-e3b82d25ecdf",
+      "first_seen": "2026-11-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
     }
   }
 }
