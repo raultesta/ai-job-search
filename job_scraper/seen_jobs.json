@@ -2874,6 +2874,78 @@
       "fit": "low",
       "status": "new",
       "portal": "websearch"
+    },
+    "nansen-senior-product-designer": {
+      "title": "Senior Product Designer — likely closed (Accel mirror: 'no longer accepting applications'); ATS check blocked by network policy this run",
+      "company": "Nansen",
+      "url": "https://job-boards.greenhouse.io/nansen/jobs/5700548004",
+      "first_seen": "2026-11-13",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "p2porg-product-designer": {
+      "title": "Product Designer — posting dated Sep 2025, over a year stale; ATS check blocked by network policy this run",
+      "company": "P2P.org",
+      "url": "https://jobs.theblockchainassociation.org/companies/p2p-2-6fcc502e-7cc4-4809-be30-a9d5954fe77a/jobs/59411244-product-designer",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "web3auth-senior-product-designer-closed": {
+      "title": "Senior Product Designer (Torus Labs/Web3Auth) — confirmed closed across multiple aggregator mirrors",
+      "company": "Web3Auth",
+      "url": "https://web3.career/senior-product-designer-remote-toruslabs/24965",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "rdstation-product-designer-senior-ia": {
+      "title": "Product Designer Sênior IA — Remote Within Region (Brazil/US/India/UK/Canada/Germany listed); Portugal not among eligible countries",
+      "company": "RD Station",
+      "url": "https://ixdf.org/jobs/product-designer-senior-ia-rd-station-remoto-remote",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "gismart-product-designer-ai-rnd": {
+      "title": "Product Designer (AI RnD) — posting ~Aug 2026, stale (>14 days)",
+      "company": "Gismart",
+      "url": "https://designproject.io/jobs/product-designer-ai-rnd-at-gismart-t1n9lf",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "stormideas-ai-first-product-designer": {
+      "title": "AI-First Product Designer — Tunisia-based role, posting ~Aug 2026, stale (>14 days)",
+      "company": "Storm Ideas",
+      "url": "https://designproject.io/jobs/ai-first-product-designer-at-storm-ideas-93f96g",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "brainlake-ai-product-designer": {
+      "title": "AI Product Designer — contractor roles in Jordan/Italy/Azerbaijan/Lebanon, not an EU/Portugal remote posting",
+      "company": "Brainlake Advertising",
+      "url": "https://designproject.io/jobs/ai-product-designer-at-brainlake-advertising-llc-sxlz2q",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "iterative-product-designer-sr-ui-ia": {
+      "title": "Product Designer Sr (foco UI e IA) — PJ contract (Brazilian tax/contract status), likely Brazil-only",
+      "company": "Iterative",
+      "url": "https://jobgether.com/offer/6a056c165a8ef7f700e93117-product-designer-sr---foco-ui-e-ia---ingles-fluente---pj---full-remoto",
+      "first_seen": "2026-11-13",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
