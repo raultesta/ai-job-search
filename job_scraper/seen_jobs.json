@@ -2946,6 +2946,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "medvidi-health-senior-staff-product-designer-core-track": {
+      "title": "Senior/Staff Product Designer (Core track) — ⚠ Language Gate: requires fluent Russian (undeclared language), overrides otherwise strong AI-native B2C design fit",
+      "company": "MEDvidi Health",
+      "url": "https://to.indeed.com/aalnnrmrt99x",
+      "first_seen": "2026-11-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "oh-so-digital-senior-product-designer-ai-web": {
+      "title": "Senior Product Designer, AI & Web (f/m/d) — ⚠ Language Gate: requires fluent German C1/native (undeclared language), overrides otherwise strong AI-native design-systems fit",
+      "company": "OH-SO Digital GmbH",
+      "url": "https://to.indeed.com/aamqy7lrqx8s",
+      "first_seen": "2026-11-14",
+      "fit": "low",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "gluckliche-gaeste-senior-ux-ui-designer": {
+      "title": "Senior UX/UI Designer (m/w/d) — entire posting in German, small German restaurant-tech SME, team language likely German though not stated as an explicit requirement; good AI-tool match (Figma Make, Claude, Lovable, Cursor named directly)",
+      "company": "Glückliche Gäste GmbH (FoodGenius)",
+      "url": "https://to.indeed.com/aa2dgjllrs49",
+      "first_seen": "2026-11-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "olx-lead-product-manager-trust-safety": {
+      "title": "Lead Product Manager - Trust & Safety (non-design PM role)",
+      "company": "OLX",
+      "url": "https://to.indeed.com/aaxxfljdnfcz",
+      "first_seen": "2026-11-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
