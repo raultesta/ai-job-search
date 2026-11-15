@@ -2982,6 +2982,78 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "solvo-finance-web3-product-designer": {
+      "title": "Web3 Product Designer (listing marked closed)",
+      "company": "Solvo Finance",
+      "url": "https://web3.career/i/=kzM4kjM",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "amorserv-ai-native-ui-ux-designer": {
+      "title": "AI-Native UI/UX Designer — remote restrictions apply; locations cited include New York and Lagos, Nigeria, not confirmed EU/Portugal-eligible",
+      "company": "AmorServ",
+      "url": "https://careers-page.com/amorservllc/job/5WR8Y6Y5",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "agoric-product-designer": {
+      "title": "Product Designer — requires US-based working hours (ET/PT)",
+      "company": "Agoric",
+      "url": "https://remotefirstjobs.com/companies/agoric/jobs/ux-designer-584035",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "defi-basket-web3-product-designer": {
+      "title": "Web3 Product Designer — Brazil-based candidates only",
+      "company": "DeFi Basket",
+      "url": "https://web3.career/product-designer-defi-basket/13631",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "deskly-uxui-product-designer-germany-remote": {
+      "title": "UX/UI Product Designer (m/w/d) — remote within Germany only",
+      "company": "desk.ly",
+      "url": "https://designproject.io/jobs/uxui-product-designer-mwd-saas-startup-remote-de-at-desk-ly-4aue66",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "cloudwalk-product-designer": {
+      "title": "Product Designer — location São Paulo, not confirmed remote-eligible for Portugal",
+      "company": "CloudWalk",
+      "url": "https://jobs.imasters.com.br/vagas/cloudwalk-product-designer-2c59f2aef46f",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "mojito-ux-designer": {
+      "title": "UX Designer — thin aggregator listing, insufficient detail to assess fit",
+      "company": "Mojito",
+      "url": "https://web3.career/ux-designer-mojito/7774",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "partyhat-senior-ux-ui-designer": {
+      "title": "Senior UX/UI Designer — insufficient detail to assess fit, domain unclear",
+      "company": "Partyhat",
+      "url": "https://dynamitejobs.com/company/partyhat/remote-job/senior-ux-ui-designer",
+      "first_seen": "2026-11-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
     }
   }
 }
