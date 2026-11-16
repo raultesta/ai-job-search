@@ -3054,6 +3054,96 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch-fallback"
+    },
+    "https://talanto.work/jobs/3ec2969f-38ba-493e-ac19-dd8ee8e584a8": {
+      "title": "Senior Product Designer (Web3) - Remote within Europe",
+      "company": "Talanto (Web3 infrastructure startup)",
+      "url": "https://talanto.work/jobs/3ec2969f-38ba-493e-ac19-dd8ee8e584a8",
+      "first_seen": "2026-11-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "https://talanto.work/jobs/0747f0fe-0fef-4da5-95ba-e14f71340480": {
+      "title": "Senior Product Designer (Web3) - Remote from Canada (regional variant of the Europe-eligible posting above, excluded: Canada-only eligibility)",
+      "company": "Talanto (Web3 infrastructure startup)",
+      "url": "https://talanto.work/jobs/0747f0fe-0fef-4da5-95ba-e14f71340480",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://arc.dev/remote-jobs/j/orth-by-aydi-ai-native-product-designer-spain-ps09g1kt7t": {
+      "title": "AI-Native Product Designer (Spain) — one-person design/build role, portfolio must include a coded prototype/live product beyond Figma; remote status ambiguous (a related listing mentions regular farm visits in Spain/France/Mexico/LatAm) — WebFetch/ATS verification blocked by network policy this run",
+      "company": "ORTH (by aydi)",
+      "url": "https://arc.dev/remote-jobs/j/orth-by-aydi-ai-native-product-designer-spain-ps09g1kt7t",
+      "first_seen": "2026-11-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "https://designproject.io/jobs/head-of-design-ai-startup-at-social-discovery-group-x0y9yg": {
+      "title": "Head of Design (AI Startup) — conflicting location signals (Remotive/designproject.io/RemoWork list Worldwide/Global, Built In mirrors say Hiring Remotely in United States) — ATS check blocked by network policy this run",
+      "company": "Social Discovery Group",
+      "url": "https://designproject.io/jobs/head-of-design-ai-startup-at-social-discovery-group-x0y9yg",
+      "first_seen": "2026-11-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "https://job-boards.greenhouse.io/j2health/jobs/5151001008": {
+      "title": "Product Designer I (New York-based, remote restricted to Eastern Time Zone working hours; quarterly NYC travel per one listing)",
+      "company": "J2 Health",
+      "url": "https://job-boards.greenhouse.io/j2health/jobs/5151001008",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://designproject.io/jobs/product-designer-at-beamer-and-userflow-beya34": {
+      "title": "Product Designer (uses Lovable/Cursor/v0 for prototyping) - Remote, USA only",
+      "company": "Beamer & Userflow",
+      "url": "https://designproject.io/jobs/product-designer-at-beamer-and-userflow-beya34",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://designproject.io/jobs/product-designer-at-cint-kkpjr1": {
+      "title": "Product Designer (Design Systems) — listings predominantly US/UK (one unclear \"Remote, Spain\" aggregator mention, not corroborated)",
+      "company": "Cint",
+      "url": "https://designproject.io/jobs/product-designer-at-cint-kkpjr1",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://dynamitejobs.com/company/serotonin/remote-job/design-contractor": {
+      "title": "Design Contractor (part-time, AI design tooling + blockchain/fintech portfolio) — apply link closed",
+      "company": "Serotonin",
+      "url": "https://dynamitejobs.com/company/serotonin/remote-job/design-contractor",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://arc.dev/remote-jobs/j/ladders-sr-product-designer-ii-design-systems-p1paiu9ag5": {
+      "title": "Sr. Product Designer II, Design Systems — open only to U.S.-authorized candidates",
+      "company": "Ladders",
+      "url": "https://arc.dev/remote-jobs/j/ladders-sr-product-designer-ii-design-systems-p1paiu9ag5",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "https://job-boards.greenhouse.io/thesis/jobs/5490698004": {
+      "title": "Product Designer (Bitcoin DeFi ecosystem) — stale posting (originally posted ~April 2025, marked closed/removed on multiple aggregator mirrors), far outside 14-day window",
+      "company": "Mezo (Thesis)",
+      "url": "https://job-boards.greenhouse.io/thesis/jobs/5490698004",
+      "first_seen": "2026-11-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
