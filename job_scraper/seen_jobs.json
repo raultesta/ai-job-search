@@ -3144,6 +3144,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "conduit-product-designer": {
+      "title": "Product Designer, Corporate Treasury (DeFi access for FinTechs/NeoBanks/Exchanges — listing asks for Pacific/Eastern NA timezone overlap; ATS check blocked by network policy this run)",
+      "company": "Conduit",
+      "url": "https://jobs.lever.co/conduit/fe5037f1-29b1-41f1-82a4-c494c95d7ac2",
+      "first_seen": "2026-11-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "fincent-lead-designer": {
+      "title": "Lead Designer (fintech accounting platform — design leadership + mentoring; ATS check blocked by network policy this run)",
+      "company": "Fincent",
+      "url": "https://job-boards.greenhouse.io/fincent/jobs/4790984007",
+      "first_seen": "2026-11-17",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "primer-product-design-lead": {
+      "title": "Product Design Lead (payments infrastructure, player-coach — Portugal explicitly listed as eligible per Seedcamp mirror, though that specific mirror shows closed; ATS check blocked by network policy this run)",
+      "company": "Primer",
+      "url": "https://builtin.com/job/product-design-lead/9610209",
+      "first_seen": "2026-11-17",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "verndale-design-director": {
+      "title": "Design Director (digital agency — remote restricted to Canada/Montreal, excludes Portugal; ATS check blocked by network policy this run)",
+      "company": "Verndale",
+      "url": "https://arc.dev/remote-jobs/j/verndale-design-director-pb908e8d41",
+      "first_seen": "2026-11-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
