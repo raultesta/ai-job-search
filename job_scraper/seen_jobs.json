@@ -3180,6 +3180,24 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "1inch-data-analytics-lead": {
+      "title": "Data & Analytics Lead",
+      "company": "1inch",
+      "url": "https://to.indeed.com/aawmhghktsbh",
+      "first_seen": "2026-11-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "ohmyfood-ui-ux-graphic-designer": {
+      "title": "UI/UX & Graphic Designer (Web, Mobile Apps & Social Media) — temporary, unpaid/equity-only (\"From GBP 1.00 per year\"), bootstrapped early-stage startup",
+      "company": "Ohmyfood",
+      "url": "https://to.indeed.com/aaq4hkk8vnr8",
+      "first_seen": "2026-11-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
