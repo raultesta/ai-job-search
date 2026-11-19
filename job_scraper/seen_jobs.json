@@ -3198,6 +3198,204 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "xapobank-head-of-design-remote-anywhere": {
+      "title": "Head of Design (Remote - Work from Anywhere) — posting date uncertain, ATS check blocked by network policy this run",
+      "company": "Xapo Bank",
+      "url": "https://www.workingnomads.com/jobs/head-of-design-remote-work-from-anywhere-xapo-bank-1870018",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "dourolabs-design-lead-defi-worldwide": {
+      "title": "Design Lead (DeFi, Worldwide - Remote) — distinct from Douro Labs' earlier marketing-focused Senior Product Designer posting; ATS check blocked by network policy this run",
+      "company": "Douro Labs",
+      "url": "https://jobs.arbitrum.io/companies/douro-labs-2/jobs/68460728-design-lead",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "deriv-ai-product-designer-builder": {
+      "title": "AI Product Designer / Builder — location/remote-eligibility unconfirmed, ATS check blocked by network policy this run",
+      "company": "Deriv",
+      "url": "https://arc.dev/remote-jobs/j/deriv-ai-product-designer-builder-p5tyie1gk1",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "velixuslabs-lead-product-designer-blockchain": {
+      "title": "Lead Product Designer (Blockchain/Web3) — listed on a UK jobs board, worldwide-remote eligibility unconfirmed; ATS check blocked by network policy this run",
+      "company": "Velixus Labs",
+      "url": "https://builtinlondon.uk/job/lead-product-designer/9827324",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "orthbyaydi-ai-native-product-designer": {
+      "title": "AI-Native Product Designer — small/unverified company, location unconfirmed; ATS check blocked by network policy this run",
+      "company": "Orth by Aydi",
+      "url": "https://arc.dev/remote-jobs/j/orth-by-aydi-ai-native-product-designer-ps09b2qcwm",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "kraken-sr-director-design-consumer-us-only": {
+      "title": "Sr. Director, Design, Consumer (US-only location requirement)",
+      "company": "Kraken",
+      "url": "https://jobs.electriccapital.com/companies/kraken/jobs/63714658-sr-director-design-consumer",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "medvidihealth-senior-staff-product-designer-core-track": {
+      "title": "Senior/Staff Product Designer (Core track) ⚠ fluent Russian required (undeclared language, Language Gate override)",
+      "company": "MEDvidi Health",
+      "url": "https://to.indeed.com/aazr64kglkxg",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "quadcode-growth-product-marketing-manager": {
+      "title": "Growth Product Marketing Manager (AI Software)",
+      "company": "QuadCode",
+      "url": "https://to.indeed.com/aa6ncrq986wn",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "openprovider-product-manager-domains-dns": {
+      "title": "Product Manager (Domains & DNS)",
+      "company": "Openprovider",
+      "url": "https://to.indeed.com/aa9gn499vb7k",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "epam-senior-ai-engineer": {
+      "title": "Senior AI Engineer",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aawdp8xnvhy8",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "xsolla-tech-lead-backend-gaming-services": {
+      "title": "Tech Lead — Backend Gaming Services Integrations",
+      "company": "Xsolla",
+      "url": "https://to.indeed.com/aaq7tczjq6dv",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "revolut-head-of-operations-lounges": {
+      "title": "Head of Operations (Lounges)",
+      "company": "Revolut",
+      "url": "https://to.indeed.com/aa48clzsr2zj",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "thaloxag-zoho-crm-consultant": {
+      "title": "Zoho CRM Consultant",
+      "company": "Thalox AG",
+      "url": "https://to.indeed.com/aarhclr6sff6",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "epam-senior-sap-sd-o2c-consultant": {
+      "title": "Senior SAP SD_O2C Consultant_Order Fulfilment_B2B",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aagg8sjfhkgw",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "epam-senior-sap-retail-logistics-consultant": {
+      "title": "Senior SAP Retail Logistics Consultant",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aa6d2jbm9n8r",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "epam-senior-sap-retail-logistics-consultant-condition-contract": {
+      "title": "Senior SAP Retail Logistics Consultant with Condition Contract Management",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aa9w9fzcnhq2",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "epam-sap-s4hana-credit-management-solution-architect": {
+      "title": "SAP S/4HANA Credit Management Solution Architect",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aatmbgp2hlyy",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "navan-business-travel-consultant": {
+      "title": "Business Travel Consultant - Brazilian-Portuguese - Late Shifts",
+      "company": "Navan",
+      "url": "https://to.indeed.com/aay26pwtb7r6",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "foxitco-cloud-data-platform-engineer": {
+      "title": "Cloud & Data Platform Engineer (Azure AI/ML and Microsoft Fabric) (Remote from Portugal)",
+      "company": "FOXITCO",
+      "url": "https://to.indeed.com/aaxrdhrsfccz",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "emma-sleep-d365-fo-technical-architect": {
+      "title": "D365 F&O Technical Architect",
+      "company": "Emma The Sleep Company",
+      "url": "https://to.indeed.com/aancrr74p2nm",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "epam-consultant-manager-ocm-consulting": {
+      "title": "Consultant/Manager, OCM Consulting",
+      "company": "EPAM Systems",
+      "url": "https://to.indeed.com/aa2n872z6xsr",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "capslock-finance-director": {
+      "title": "Finance Director",
+      "company": "CapsLock",
+      "url": "https://to.indeed.com/aapf4hpd7bjt",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
