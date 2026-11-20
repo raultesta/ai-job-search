@@ -3396,6 +3396,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "qureos-lead-product-designer-defi": {
+      "title": "Lead Product Designer",
+      "company": "Qureos (listing; mirrors MLabs DeFi posting)",
+      "url": "https://app.qureos.com/jobs/lead-product-designer-1765925221929",
+      "first_seen": "2026-11-20",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "obinex-web3-product-designer-esop": {
+      "title": "Web3 Product Designer",
+      "company": "Obinex",
+      "url": "https://wellfound.com/jobs/3094256-web3-product-designer-esop-only",
+      "first_seen": "2026-11-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "cardinal-cryptography-web3-ux-researcher-designer-krakow": {
+      "title": "Web3 UX Researcher/Designer",
+      "company": "Cardinal Cryptography",
+      "url": "https://cryptojobslist.com/jobs/web3-ux-researcher-designer-cardinal-cryptography-krakow",
+      "first_seen": "2026-11-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "hiro-systems-product-designer-stale": {
+      "title": "Product Designer",
+      "company": "Hiro Systems PBC",
+      "url": "https://cryptojobslist.com/jobs/product-designer-hiro-remote",
+      "first_seen": "2026-11-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
     }
   }
 }
