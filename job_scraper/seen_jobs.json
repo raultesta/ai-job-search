@@ -3432,6 +3432,112 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch-fallback"
+    },
+    "immunefi-senior-ux-product-designer": {
+      "title": "Senior UX Product Designer",
+      "company": "Immunefi",
+      "url": "https://web3.career/i/=MjMzgTO",
+      "first_seen": "2026-11-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch",
+      "note": "Web3 security/bug-bounty platform, Web3-adjacent domain match. Not independently verified (network blocked) - fit based on WebSearch snippet only."
+    },
+    "constructor-product-designer-ai-agent-tools": {
+      "title": "Product Designer: AI Agent Tools (Remote)",
+      "company": "Constructor",
+      "url": "https://apply.workable.com/constructor-1/jobs/view/F52C283906.md",
+      "first_seen": "2026-11-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch",
+      "note": "Title strongly matches AI-native/agentic product design positioning. Remote-eligibility and full requirements not independently verified this run - WebFetch to workable.com blocked by network policy."
+    },
+    "sensefinance-product-designer": {
+      "title": "Product Designer",
+      "company": "Sense Finance",
+      "url": "https://jobs.lever.co/sensefinance/7c977563-63c0-4bac-bde8-fc76487727e9",
+      "first_seen": "2026-11-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch",
+      "note": "Decentralized fixed-income protocol on Ethereum - direct DeFi domain match. Not independently verified (WebFetch to lever.co blocked by network policy); WebSearch snippet says Remote."
+    },
+    "mc2finance-product-designer-uiux": {
+      "title": "Product Designer (UI/UX)",
+      "company": "MC² Finance",
+      "url": "https://arc.dev/remote-jobs/j/mc-finance-product-designer-ui-ux-finance-remote-lvbpwgiz7n",
+      "first_seen": "2026-11-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch",
+      "note": "DeFi/fintech startup domain match, though stated bar (3+ yrs) is below candidate seniority. Not independently verified (network blocked); WebSearch snippet says Remote."
+    },
+    "risfond-ai-native-product-designer": {
+      "title": "AI-Native Product Designer",
+      "company": "RISFOND",
+      "url": "https://wellfound.com/jobs/4840020-ai-native-product-designer",
+      "first_seen": "2026-11-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch",
+      "note": "AI-native positioning matches well; WebSearch snippet explicitly says hires 'Everywhere' remote, $90k-150k, 3 yrs exp (below candidate seniority). Not independently verified (network blocked)."
+    },
+    "defibasket-web3-product-designer": {
+      "title": "Web3 Product Designer",
+      "company": "DeFi Basket",
+      "url": "https://web3.career/product-designer-defi-basket/13631",
+      "first_seen": "2026-11-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch",
+      "note": "DeFi domain match but WebSearch snippet lists Brazil location and ~$60k salary, well below baseline (~€100k) and likely not worldwide-remote."
+    },
+    "hyperliquid-senior-product-designer": {
+      "title": "Senior Product Designer (listing removed/closed)",
+      "company": "Hyperliquid",
+      "url": "https://builtin.com/job/senior-product-designer/6812308",
+      "first_seen": "2026-11-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch",
+      "note": "WebSearch indicates the listing has been removed/is no longer open - excluded per open-positions-only rule."
+    },
+    "moniepoint-performance-marketing-manager": {
+      "title": "Performance Marketing Manager",
+      "company": "Moniepoint",
+      "url": "https://to.indeed.com/aadnpxv66jfv",
+      "first_seen": "2026-11-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "quadcode-growth-product-marketing-manager-ai-software": {
+      "title": "Growth Product Marketing Manager (AI Software)",
+      "company": "QuadCode",
+      "url": "https://to.indeed.com/aa2lpysxkntl",
+      "first_seen": "2026-11-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "airslate-senior-content-specialist": {
+      "title": "Senior Content Specialist",
+      "company": "airSlate",
+      "url": "https://to.indeed.com/aa96qqgdjqrx",
+      "first_seen": "2026-11-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "workato-engineering-manager-chatbots-ai": {
+      "title": "Engineering Manager, ChatBots and AI",
+      "company": "Workato",
+      "url": "https://to.indeed.com/aamcshsvxlq7",
+      "first_seen": "2026-11-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
