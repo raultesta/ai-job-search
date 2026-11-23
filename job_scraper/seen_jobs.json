@@ -3538,6 +3538,69 @@
       "fit": "low",
       "status": "skipped",
       "portal": "indeed-mcp"
+    },
+    "craft-docs-product-designer-all-level": {
+      "title": "Product Designer (all level) — hybrid Budapest / recurring on-site weeks for EU remote option, conflicts with remote-only deal-breaker",
+      "company": "Craft Docs",
+      "url": "https://grnh.se/craftdocs/jobs/5061079004",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "kimber-labs-product-designer": {
+      "title": "Product Designer (builds Plume RWA blockchain) — remote in the United States only",
+      "company": "Kimber Labs",
+      "url": "https://ats.rippling.com/plume-network/jobs/5b4080d6-6d68-482c-953a-9f98a2a875d7",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "runware-product-designer": {
+      "title": "Product Designer (developer platform UX) — UK right-to-work required, no visa sponsorship",
+      "company": "Runware",
+      "url": "https://jobs.dawncapital.com/companies/runware-2/jobs/78446640-product-designer",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "temporal-technologies-ai-native-staff-product-designer-ai-compute": {
+      "title": "AI-Native Staff Product Designer, AI + Compute — remote in the United States only",
+      "company": "Temporal Technologies",
+      "url": "https://www.mindtheproduct.com/jobs/listing/ai-native-staff-product-designer-ai-compute-2a46b4df4115fc98/",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "govwell-founding-product-designer": {
+      "title": "Founding Product Designer — sources conflict (one remote-US listing vs. several showing NYC hybrid/in-office 3-5 days/week); names Lovable, Cursor, Figma",
+      "company": "GovWell",
+      "url": "https://seedtable.com/jobs/48255",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch"
+    },
+    "entangle-labs-ux-ui-designer": {
+      "title": "Sr/Lead UX/UI Designer & Head of UX and Design — appears closed/expired across all mirrors checked",
+      "company": "Entangle Labs",
+      "url": "https://web3.career/sr-lead-ux-ui-designer-entanglelabs/65390",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "dao-craft-ux-ui-designer": {
+      "title": "UX/UI Designer (via deCircle) — closed Oct 15, 2026 per source",
+      "company": "DAO Craft",
+      "url": "https://decircletalentpartner.recruitee.com/o/ux-ui-designer-dao-craft",
+      "first_seen": "2026-11-23",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
