@@ -3601,6 +3601,33 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "ixdf-ai-product-prototyper-remote": {
+      "title": "AI Product Prototyper — uses AI coding assistants/LLMs to build front-end prototypes from natural-language prompts (strong AI-native prototyping match; employer name and comp not resolved in this run's WebSearch snippet, ATS check blocked by network policy this run)",
+      "company": "Unknown (ixdf.org listing, employer not resolved this run)",
+      "url": "https://ixdf.org/jobs/ai-product-prototyper-remote",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "plexus-defi-product-design-lead": {
+      "title": "DeFi Product design lead (UK recruiter listing, location/eligibility unconfirmed — itjobswatch URL slug implies UK-UK; ATS check blocked by network policy this run)",
+      "company": "Plexus Resource Solutions",
+      "url": "https://www.itjobswatch.co.uk/jv/Plexus-Resource-Solutions/DeFi-Product-design-lead-Job-UK-UK-4tbbjn",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "namelessventures-lead-product-designer-fintech": {
+      "title": "Lead Product Designer — B2C fintech product (payments, onboarding, investing, rewards); listing notes \"remote restrictions apply\" without specifying which — eligibility unconfirmed, ATS check blocked by network policy this run",
+      "company": "Nameless Ventures",
+      "url": "https://arc.dev/remote-jobs/j/nameless-ventures-lead-product-designer-pq1c60ozjz",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
