@@ -3628,6 +3628,26 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "ledgy-head-of-design": {
+      "title": "Head of Design",
+      "company": "Ledgy",
+      "url": "https://to.indeed.com/aavc7r9ztzbt",
+      "first_seen": "2026-11-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp",
+      "note": "Excluded: hybrid from London office, remote only in UK/Spain/Germany/Poland/Romania — Portugal not eligible and role is not fully remote (deal-breaker)"
+    },
+    "social-discovery-group-senior-product-designer-nov2026": {
+      "title": "Senior Product Designer",
+      "company": "Social Discovery Group",
+      "url": "https://to.indeed.com/aazwljv9sxrh",
+      "first_seen": "2026-11-25",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp",
+      "note": "Language Gate override: posting requires C1+ Russian proficiency, an undeclared language — marked Low regardless of otherwise-plausible B2C product design fit"
     }
   }
 }
