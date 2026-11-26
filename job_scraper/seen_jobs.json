@@ -3648,6 +3648,69 @@
       "status": "skipped",
       "portal": "indeed-mcp",
       "note": "Language Gate override: posting requires C1+ Russian proficiency, an undeclared language — marked Low regardless of otherwise-plausible B2C product design fit"
+    },
+    "teleclinic-senior-growth-designer": {
+      "title": "(Senior) Growth Designer (m/w/d) — AI-first growth/product design hybrid, explicitly names Claude, Figma, Lovable as daily tools; fluent English required, German only a plus (passes Language Gate); remote across Europe (max 2h timezone offset from Germany, Portugal included); reports to a Senior Growth Product Designer, reads as mid-level growth-design rather than a senior leadership hire",
+      "company": "TeleClinic GmbH",
+      "url": "https://to.indeed.com/aaldblsc22x9",
+      "first_seen": "2026-11-26",
+      "fit": "medium",
+      "status": "new",
+      "portal": "indeed-mcp"
+    },
+    "centro-team-head-of-product": {
+      "title": "Head of Product (non-design role)",
+      "company": "Centro.team",
+      "url": "https://to.indeed.com/aag7j4bnwz6k",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "intellect-senior-implementation-analyst": {
+      "title": "Senior Implementation Analyst (Remote in Europe) (non-design role)",
+      "company": "Intellect",
+      "url": "https://to.indeed.com/aabrwyyrhrg4",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "mozilla-vp-studio": {
+      "title": "VP, Mozilla Studio (creative/brand leadership title but not product design; deprioritized without further verification)",
+      "company": "Mozilla Corporation",
+      "url": "https://to.indeed.com/aa49qklrby8q",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "openproject-senior-product-manager": {
+      "title": "Senior Product Manager (non-design role)",
+      "company": "OpenProject GmbH",
+      "url": "https://to.indeed.com/aaftjvxlx6rc",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
+    },
+    "ondo-finance-product-designer-solana-mirror": {
+      "title": "Product Designer (likely mirror/duplicate of already-tracked Ondo Finance Product Designer reqs across job-board mirrors; ATS check blocked by network policy this run)",
+      "company": "Ondo Finance",
+      "url": "https://jobs.solana.com/companies/ondo-finance/jobs/56581503-product-designer",
+      "first_seen": "2026-11-26",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch"
+    },
+    "jobgether-ai-product-designer-ireland-mirror": {
+      "title": "AI Product Designer (Ireland listing — likely another mirror of the same multi-country Jobgether AI Product Designer posting family already tracked; employer undisclosed, ATS check blocked by network policy this run)",
+      "company": "Jobgether",
+      "url": "https://jobs.lever.co/jobgether/dbe94ef2-a941-4e07-92aa-71bd8bf68097",
+      "first_seen": "2026-11-26",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch"
     }
   }
 }
