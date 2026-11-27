@@ -3711,6 +3711,105 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch"
+    },
+    "https://startup.jobs/senior-product-designer-mysten-labs-2-7860438": {
+      "title": "Senior Product Designer",
+      "company": "Mysten Labs",
+      "url": "https://startup.jobs/senior-product-designer-mysten-labs-2-7860438",
+      "first_seen": "2026-11-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://arc.dev/remote-jobs/j/walrus-foundation-senior-product-designer-okaee1dks9": {
+      "title": "Senior Product Designer",
+      "company": "Walrus Foundation",
+      "url": "https://arc.dev/remote-jobs/j/walrus-foundation-senior-product-designer-okaee1dks9",
+      "first_seen": "2026-11-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://usual.breezy.hr/p/129af1b61d6c01-web3-defi-product-designer": {
+      "title": "Web3 DeFi Product Designer",
+      "company": "Usual",
+      "url": "https://usual.breezy.hr/p/129af1b61d6c01-web3-defi-product-designer",
+      "first_seen": "2026-11-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remotive.com/remote/jobs/design/head-of-design-4258971": {
+      "title": "Head of Design",
+      "company": "Red Cell Partners",
+      "url": "https://remotive.com/remote/jobs/design/head-of-design-4258971",
+      "first_seen": "2026-11-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "remotive-search"
+    },
+    "https://arc.dev/remote-jobs/j/mc-finance-product-designer-ui-ux-finance-remote-lvbpwgiz7n": {
+      "title": "Product Designer (UI/UX, Finance)",
+      "company": "MC² Finance",
+      "url": "https://arc.dev/remote-jobs/j/mc-finance-product-designer-ui-ux-finance-remote-lvbpwgiz7n",
+      "first_seen": "2026-11-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://pike.breezy.hr/p/65e4eb8395af-senior-ux-ui-product-designer": {
+      "title": "Senior UX/UI Product Designer",
+      "company": "NUTS Finance",
+      "url": "https://pike.breezy.hr/p/65e4eb8395af-senior-ux-ui-product-designer",
+      "first_seen": "2026-11-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remotejobs.org/remote-jobs/head-of-experience-design-jimdo": {
+      "title": "Head of Experience Design",
+      "company": "Jimdo",
+      "url": "https://remotejobs.org/remote-jobs/head-of-experience-design-jimdo",
+      "first_seen": "2026-11-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remotive.com/remote/jobs/design/head-of-design-5613534": {
+      "title": "Head of Design — insufficient detail (company/role scope unverified, ATS/WebFetch blocked by network policy)",
+      "company": "Smart Content",
+      "url": "https://remotive.com/remote/jobs/design/head-of-design-5613534",
+      "first_seen": "2026-11-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "remotive-search"
+    },
+    "https://job-boards.greenhouse.io/blip-global/jobs/4178015009": {
+      "title": "Staff Product Designer (finance/credit AI) — likely Brazil-residency-restricted remote, salary likely below baseline; WebFetch/ATS verification blocked by network policy",
+      "company": "Blip Global",
+      "url": "https://job-boards.greenhouse.io/blip-global/jobs/4178015009",
+      "first_seen": "2026-11-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "https://beincrypto.com/jobs/p/lead-deFi-product-designer-amicus": {
+      "title": "Lead DeFi Product Designer — listed as Berlin, location/remote-eligibility unconfirmed; ATS verification blocked by network policy",
+      "company": "Amicus",
+      "url": "https://beincrypto.com/jobs/p/lead-deFi-product-designer-amicus",
+      "first_seen": "2026-11-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
+    },
+    "https://www.themuse.com/jobs/consensys/senior-product-designer-metamask-e8f927": {
+      "title": "Senior Product Designer, MetaMask — expired (posting dated Dec 2025, outside 14-day window)",
+      "company": "Consensys",
+      "url": "https://www.themuse.com/jobs/consensys/senior-product-designer-metamask-e8f927",
+      "first_seen": "2026-11-27",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
     }
   }
 }
