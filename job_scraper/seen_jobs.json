@@ -3810,6 +3810,15 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch-fallback"
+    },
+    "https://to.indeed.com/aadscxzghdfl": {
+      "title": "Senior Frontend Engineer",
+      "company": "LastPass",
+      "url": "https://to.indeed.com/aadscxzghdfl",
+      "first_seen": "2026-11-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "indeed-mcp"
     }
   }
 }
